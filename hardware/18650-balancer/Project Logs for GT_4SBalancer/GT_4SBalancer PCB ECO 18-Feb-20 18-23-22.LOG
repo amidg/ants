@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=R9 Old Footprint=RESC0603(1608)_N New Footprint=RESC2512(6432)_L
+Change Component Comment : Designator=R9 Old Comment=0.008 1% 0603(1608) New Comment=R008 1% 2512(6432)
+Change component parameters: Designator = "R9"; Footprint = "RESC2512(6432)_L"; UniqueID = "\KGKUPVZE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Case-EIA"; Value = "2512"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case-Metric"; Value = "6432"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power"; Value = "1 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "30100.00 Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R9_1(RESC2512(6432)_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Case-EIA"; Value = "2512"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case-Metric"; Value = "6432"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1 %"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "30100.00 Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R9_1-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R9_1-2
+Added Member To Class: ClassName=GT_4SBalancer Member=Component R9_1 R008 1% 2512(6432)
