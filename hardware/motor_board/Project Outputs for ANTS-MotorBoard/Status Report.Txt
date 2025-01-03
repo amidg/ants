@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ANTS-MotorBoard.PrjPcb]
+   Generated File[ANTS-MotorBoard.TXT]
+   Generated File[ANTS-MotorBoard.LDP]
+   Generated File[ANTS-MotorBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:16:39 On 02-Jun-21
