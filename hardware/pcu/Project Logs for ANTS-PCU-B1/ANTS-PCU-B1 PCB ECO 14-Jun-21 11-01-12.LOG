@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=ESP32_19V_EN Pin=19V_AUTO-1
+Removed Pin From Net: NetName=+3V3 Pin=19V_AUTO-3
+Removed Member From Class: ClassName=POWER_RAIL_CTRL Member=19V_AUTO
+Added Pin To Net: NetName=ESP32_19V_EN Pin=R43-2
+Added Pin To Net: NetName=ESP32_19V_EN Pin=U7-2

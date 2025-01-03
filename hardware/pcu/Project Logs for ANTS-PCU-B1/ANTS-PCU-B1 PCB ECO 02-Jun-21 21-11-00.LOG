@@ -1,0 +1,229 @@
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A20
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A21
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A22
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A23
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A33
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A35
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A43
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A44
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A51
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A57
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-A58
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B24
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B29
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B30
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B33
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B35
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B43
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B44
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B50
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B51
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B57
+Removed Pin From Net: NetName=GND Pin=ANTS ROBOTICS-B58
+Removed Pin From Net: NetName=NetR17_1 Pin=RJ45-9
+Added Component: Designator=F2(FP-MF-PSMF-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "40A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "PTC Resettable Fuses"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "PTC RESET FUSE 15V 100MA 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC215135X67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MF-PSMF010X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Resettable Fuses - PPTC 0.10A 15V 1ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/mf-psmf010x-2-bourns-7483441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MF-PSMF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "0.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Time"; Value = "1.5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "15V"; VariantName = "[No Variations]"
+Added Component: Designator=F3(FP-MF-PSMF-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "40A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "PTC Resettable Fuses"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "PTC RESET FUSE 15V 100MA 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC215135X67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MF-PSMF010X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Resettable Fuses - PPTC 0.10A 15V 1ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/mf-psmf010x-2-bourns-7483441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MF-PSMF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "0.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Time"; Value = "1.5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "15V"; VariantName = "[No Variations]"
+Added Component: Designator=F4(FP-MF-PSMF-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "40A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "PTC Resettable Fuses"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "PTC RESET FUSE 15V 100MA 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC215135X67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MF-PSMF010X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Resettable Fuses - PPTC 0.10A 15V 1ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/mf-psmf010x-2-bourns-7483441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MF-PSMF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "0.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Time"; Value = "1.5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "15V"; VariantName = "[No Variations]"
+Added Component: Designator=F5(FP-MF-PSMF-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ambient Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.bourns.com/docs/Product-Datasheets/mfpsmf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "40A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Circuit Protection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "PTC Resettable Fuses"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "PTC RESET FUSE 15V 100MA 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Hold Current"; Value = "0.1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC215135X67"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bourns Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MF-PSMF010X-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Resettable Fuses - PPTC 0.10A 15V 1ohm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/mf-psmf010x-2-bourns-7483441"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "MF-PSMF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Current"; Value = "0.3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Trip Time"; Value = "1.5s"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1-7.5?"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "15V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-A19
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-A25
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-A31
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A43
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A44
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A45
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A46
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A47
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A48
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A49
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A51
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A57
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A58
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A59
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A60
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A61
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A62
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-A63
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-B25
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-B28
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B38
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B39
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B40
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B41
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B42
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B43
+Added Pin To Net: NetName=MOTOR2_CHB Pin=ANTS ROBOTICS-B44
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B50
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B51
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B57
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B58
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B59
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B60
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B61
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B62
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-B63
+Added Pin To Net: NetName=NetR17_1 Pin=ESP32-6
+Added Pin To Net: NetName=GND Pin=F2-2
+Added Pin To Net: NetName=GND Pin=F3-2
+Added Pin To Net: NetName=MOTOR2_CHB Pin=F4-1
+Added Pin To Net: NetName=GND Pin=F4-2
+Added Pin To Net: NetName=MOTOR3_CHA Pin=F5-1
+Added Pin To Net: NetName=GND Pin=F5-2
+Change Net Name : Old Net Name=MOTOR1_CHA New Net Name=+24V_BAT_RAW
+Change Net Name : Old Net Name=MOTOR2_CHB New Net Name=BAT_GND
+Change Net Name : Old Net Name=MOTOR3_CHA New Net Name=PC_GND
+Change Net Name : Old Net Name=MOTOR4_CHA New Net Name=+19V_PC
+Added Pin To Net: NetName=+12V_ROUTER Pin=ANTS ROBOTICS-A34
+Added Pin To Net: NetName=+12V_ROUTER Pin=ANTS ROBOTICS-A35
+Added Net: Name=+12V_ROUTER
+Added Pin To Net: NetName=+12V_SPEAKER Pin=ANTS ROBOTICS-A32
+Added Pin To Net: NetName=+12V_SPEAKER Pin=ANTS ROBOTICS-A33
+Added Net: Name=+12V_SPEAKER
+Added Pin To Net: NetName=CHARGER_VCC Pin=ANTS ROBOTICS-A20
+Added Pin To Net: NetName=CHARGER_VCC Pin=ANTS ROBOTICS-A21
+Added Pin To Net: NetName=CHARGER_VCC Pin=ANTS ROBOTICS-A22
+Added Pin To Net: NetName=CHARGER_VCC Pin=ANTS ROBOTICS-A23
+Added Pin To Net: NetName=CHARGER_VCC Pin=ANTS ROBOTICS-A24
+Added Net: Name=CHARGER_VCC
+Added Pin To Net: NetName=CHRG_GND Pin=ANTS ROBOTICS-B20
+Added Pin To Net: NetName=CHRG_GND Pin=ANTS ROBOTICS-B21
+Added Pin To Net: NetName=CHRG_GND Pin=ANTS ROBOTICS-B22
+Added Pin To Net: NetName=CHRG_GND Pin=ANTS ROBOTICS-B23
+Added Pin To Net: NetName=CHRG_GND Pin=ANTS ROBOTICS-B24
+Added Pin To Net: NetName=CHRG_GND Pin=F2-1
+Added Net: Name=CHRG_GND
+Added Pin To Net: NetName=ESTOP_5V Pin=ANTS ROBOTICS-A29
+Added Pin To Net: NetName=ESTOP_5V Pin=ANTS ROBOTICS-A30
+Added Net: Name=ESTOP_5V
+Added Pin To Net: NetName=ESTOP_IN Pin=ANTS ROBOTICS-B29
+Added Pin To Net: NetName=ESTOP_IN Pin=ANTS ROBOTICS-B30
+Added Net: Name=ESTOP_IN
+Added Pin To Net: NetName=EXTRA_GND Pin=ANTS ROBOTICS-B33
+Added Pin To Net: NetName=EXTRA_GND Pin=ANTS ROBOTICS-B34
+Added Pin To Net: NetName=EXTRA_GND Pin=ANTS ROBOTICS-B35
+Added Pin To Net: NetName=EXTRA_GND Pin=F3-1
+Added Net: Name=EXTRA_GND
+Added Member To Class: ClassName=CONN Member=Component F2 MF-PSMF010X-2
+Added Member To Class: ClassName=CONN Member=Component F3 MF-PSMF010X-2
+Added Member To Class: ClassName=CONN Member=Component F4 MF-PSMF010X-2
+Added Member To Class: ClassName=CONN Member=Component F5 MF-PSMF010X-2
+Added Room: Name=CONN
+Added Room: Name=ESP32
+Added Room: Name=ESP32-POWER
+Added Room: Name=Ethernet
+Added Room: Name=USB-ESP32

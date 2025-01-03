@@ -1,0 +1,12 @@
+Record=TopLevelDocument|FileName=12V-EXTRA-POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=19V-PC-POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=+5V_3V3_DIGITAL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=BATTERY-CONTROL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=CONN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=ESP32-POWER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=ESP32.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=Ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=POWER_RAIL_CTRL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=POWER_RAIL_MONITORING.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=RELAYS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=12V-EXTRA-POWER.SchDoc|FileName=USB-ESP32.SchDoc|SheetNumber= 

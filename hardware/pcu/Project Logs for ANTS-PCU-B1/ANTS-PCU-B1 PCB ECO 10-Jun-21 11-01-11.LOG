@@ -1,0 +1,28 @@
+Change Component Comment : Designator=R? Old Comment=RC0805FR-0714KL New Comment=14K 1% 0805
+Change Component Comment : Designator=R? Old Comment=RC0805FR-07100KL New Comment=100K 1% 0805
+Change Component Designator: OldDesignator=C? NewDesignator=C59
+Change Component Designator: OldDesignator=C? NewDesignator=C60
+Change Component Designator: OldDesignator=R? NewDesignator=R77
+Change Component Designator: OldDesignator=R? NewDesignator=R78
+Change Component Designator: OldDesignator=R? NewDesignator=R79
+Change Component Designator: OldDesignator=R? NewDesignator=R80
+Change Component Designator: OldDesignator=R? NewDesignator=R81
+Change Component Designator: OldDesignator=R? NewDesignator=R82
+Change Component Designator: OldDesignator=R? NewDesignator=R83
+Change Component Designator: OldDesignator=R? NewDesignator=R84
+Change Component Designator: OldDesignator=U? NewDesignator=U21
+Change Component Designator: OldDesignator=U? NewDesignator=U22
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR78_1
+Added Pin To Net: NetName=NetR84_1 Pin=R84-1
+Added Pin To Net: NetName=NetR84_1 Pin=U22-3
+Added Net: Name=NetR84_1
+Added Member To Class: ClassName=RELAYS Member=Component C59 330nF 50V 0805
+Added Member To Class: ClassName=RELAYS Member=Component C60 330nF 50V 0805
+Added Member To Class: ClassName=RELAYS Member=Component R78 10K 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R79 100K 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R80 14K 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R81 0R 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R82 0R 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R83 0R 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R84 1K 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component U21 L78M12ABDT-TR

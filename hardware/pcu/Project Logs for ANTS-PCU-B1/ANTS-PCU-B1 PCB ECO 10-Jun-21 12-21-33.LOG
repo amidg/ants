@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=+24V_MOTOR_RAW Pin=MOTOR_ESTOP_RELAY-30
+Removed Pin From Net: NetName=+24V_BAT Pin=MOTOR_FUSE-1
+Removed Pin From Net: NetName=+24V_BAT Pin=MOTOR_FUSE-2
+Removed Pin From Net: NetName=+24V_MOTOR_RAW Pin=MOTOR_FUSE-3
+Removed Pin From Net: NetName=+24V_MOTOR_RAW Pin=MOTOR_FUSE-4
+Removed Pin From Net: NetName=+24V_MOTOR Pin=U22-5
+Removed Pin From Net: NetName=+24V_MOTOR Pin=U22-5
+Removed Pin From Net: NetName=+24V_MOTOR Pin=U22-5
+Added Pin To Net: NetName=+24V_BAT Pin=MOTOR_ESTOP_RELAY-30
+Added Pin To Net: NetName=+24V_MOTOR_RAW Pin=MOTOR_FUSE-1
+Added Pin To Net: NetName=+24V_MOTOR_RAW Pin=MOTOR_FUSE-2
+Added Pin To Net: NetName=+24V_MOTOR Pin=MOTOR_FUSE-3
+Added Pin To Net: NetName=+24V_MOTOR Pin=MOTOR_FUSE-4
+Added Pin To Net: NetName=+24V_MOTOR_RAW Pin=U22-5
+Added Pin To Net: NetName=+24V_MOTOR_RAW Pin=U22-5
+Added Pin To Net: NetName=+24V_MOTOR_RAW Pin=U22-5
+Change Net Name : Old Net Name=NetMOTOR_RF_RELAY_87 New Net Name=+24V_MOTOR_RF

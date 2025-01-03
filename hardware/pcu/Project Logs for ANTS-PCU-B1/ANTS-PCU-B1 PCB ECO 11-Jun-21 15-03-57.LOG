@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=+5V Pin=C58-1
+Removed Pin From Net: NetName=GND Pin=C58-2
+Removed Pin From Net: NetName=+3V3 Pin=D8-2
+Removed Pin From Net: NetName=+19V_ENABLE Pin=PC_IGNORE_LOGIC-1
+Removed Pin From Net: NetName=GND Pin=PC_IGNORE_LOGIC-3
+Removed Pin From Net: NetName=+24V_DIGITAL Pin=PC_RELAY-1
+Removed Pin From Net: NetName=+3V3 Pin=PC_RELAY-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=GND Pin=R73-1
+Removed Pin From Net: NetName=+3V3 Pin=R76-1
+Removed Pin From Net: NetName=GND Pin=U19-2
+Removed Pin From Net: NetName=GND Pin=U19-3
+Removed Pin From Net: NetName=+5V Pin=U19-5
+Removed Member From Class: ClassName=19V-PC-POWER Member=C58
+Removed Member From Class: ClassName=19V-PC-POWER Member=D8
+Removed Member From Class: ClassName=19V-PC-POWER Member=PC_IGNORE_LOGIC
+Removed Member From Class: ClassName=19V-PC-POWER Member=PC_RELAY
+Removed Member From Class: ClassName=19V-PC-POWER Member=Q4
+Removed Member From Class: ClassName=19V-PC-POWER Member=R72
+Removed Member From Class: ClassName=19V-PC-POWER Member=R73
+Removed Member From Class: ClassName=19V-PC-POWER Member=U19
+Change Component Footprint: Designator=R76 Old Footprint=RESC2013X60X35ML10T20 New Footprint=RESC2013X60X35NL10T20
+Change Component Comment : Designator=R76 Old Comment=1K 1% 0805 New Comment=10K 1% 0805
+Change Managed Component Library Link : Designator=R76 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=9BBD9324-2FD9-4648-9CB9-4BA0FDCD0C55 New ItemGUID=D2BB4EBD-434C-4A0A-87C3-92BF88F0847C Old RevisionGUID=0D350E83-63D1-4819-BF21-6329E1110050 New RevisionGUID=E93F9D83-9F5D-47E9-B6A2-6EB4829C9051
+Change component parameters: Designator = "R76" ("R76"); Footprint = "RESC2013X60X35ML10T20"; UniqueID = "\ZTITOEHP" ("\ZTITOEHP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_04.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 4, 02/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "155 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55 degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "5000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "150 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PC_BUCK-5
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PC_BUCK-6
+Added Pin To Net: NetName=GND Pin=PC_PWR-1
+Added Pin To Net: NetName=+19V_PC_RAW Pin=R76-1

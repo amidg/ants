@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+3V3 Pin=C12-1
+Removed Pin From Net: NetName=GND Pin=C12-2
+Removed Pin From Net: NetName=GND Pin=C13-1
+Removed Pin From Net: NetName=+3V3 Pin=C13-2
+Removed Pin From Net: NetName=GND Pin=C14-2
+Removed Pin From Net: NetName=GND Pin=C15-2
+Removed Pin From Net: NetName=+3V3 Pin=R14-2
+Removed Pin From Net: NetName=GND Pin=U3-18
+Removed Pin From Net: NetName=+3V3 Pin=U3-41
+Removed Pin From Net: NetName=+3V3 Pin=U3-42
+Removed Pin From Net: NetName=+5V Pin=USB-A-1
+Removed Pin From Net: NetName=GND Pin=USB-A-4
+Removed Pin From Net: NetName=+5V Pin=USB-A-5
+Removed Pin From Net: NetName=GND Pin=USB-A-8
+Removed Pin From Net: NetName=GND Pin=USB-A-Shell
+Removed Pin From Net: NetName=GND Pin=USB-A-Shell
+Removed Pin From Net: NetName=GND Pin=USB-A-Shell
+Removed Pin From Net: NetName=GND Pin=USB-A-Shell
+Removed Pin From Net: NetName=GND Pin=USB-HOST-DWLD-1
+Added Pin To Net: NetName=CH559L_RX Pin=ESP32-28
+Added Net: Name=CH559L_RX
+Added Pin To Net: NetName=CH559L_TX Pin=ESP32-27
+Added Net: Name=CH559L_TX

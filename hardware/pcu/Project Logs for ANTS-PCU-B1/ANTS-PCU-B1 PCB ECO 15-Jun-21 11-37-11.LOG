@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+24V_BAT Pin=C59-1
+Removed Pin From Net: NetName=+24V_BAT Pin=U21-1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=C59-1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=U21-1

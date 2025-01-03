@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT_GND Pin=ANTS ROBOTICS-B38
+Added Pin To Net: NetName=GND Pin=ANTS ROBOTICS-B38
+Added Member To Class: ClassName=RELAYS Member=Component C? 0.1uF 50V 0805
+Added Member To Class: ClassName=RELAYS Member=Component R77 10K 1% 0805

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+19V_PC_RAW Pin=R76-1
+Added Pin To Net: NetName=+19V_PC Pin=R76-1
+Added Member To Class: ClassName=12V-EXTRA-POWER Member=Component C49 680uF 16V

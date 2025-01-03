@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=+19V_PC_RAW Pin=NO_PC_MNTRNG-1
+Removed Pin From Net: NetName=+19V_PC_NOFUSE Pin=NO_PC_MNTRNG-2
+Removed Member From Class: ClassName=19V-PC-POWER Member=NO_PC_MNTRNG

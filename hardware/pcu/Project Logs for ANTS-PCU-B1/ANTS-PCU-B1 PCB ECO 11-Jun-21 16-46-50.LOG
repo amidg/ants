@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=+19V_PC Pin=R74-2
+Added Pin To Net: NetName=+19V_PC_NOFUSE Pin=R74-2

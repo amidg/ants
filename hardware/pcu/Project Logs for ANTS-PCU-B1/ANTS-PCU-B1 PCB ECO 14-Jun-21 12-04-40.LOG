@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=SYS_RDY NewDesignator=SYS_GOOD
+Change Net Name : Old Net Name=NetSYS_RDY_1 New Net Name=NetSYS_GOOD_1

@@ -1,0 +1,22 @@
+Added Component: Designator=R85(RESC2013X60X40ML20T25)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERA6AEB123V"; VariantName = "[No Variations]"
+Added Component: Designator=SYS_RDY(1206_A)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.com/led/datasheet/150120GS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "1206_A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "150120GS75000"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=R85-1
+Change Net Name : Old Net Name=ESP32_19V_EN New Net Name=ESP32_SYS_RDY
+Added Pin To Net: NetName=NetR85_2 Pin=R85-2
+Added Pin To Net: NetName=NetR85_2 Pin=SYS_RDY-2
+Added Net: Name=NetR85_2
+Added Pin To Net: NetName=NetSYS_RDY_1 Pin=SYS_RDY-1
+Added Pin To Net: NetName=NetSYS_RDY_1 Pin=U7-3
+Added Net: Name=NetSYS_RDY_1
+Added Member To Class: ClassName=POWER_RAIL_CTRL Member=Component R85 1K 5% 0805
+Added Member To Class: ClassName=POWER_RAIL_CTRL Member=Component SYS_RDY 150120GS75000

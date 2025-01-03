@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=USB2-IN-PWR Pin=D65-2
+Removed Pin From Net: NetName=3V3_DIGITAL Pin=D66-2
+Removed Pin From Net: NetName=+3V3 Pin=D67-1
+Removed Pin From Net: NetName=+5V Pin=D68-1
+Removed Pin From Net: NetName=5V_DIGITAL Pin=D68-2
+Removed Pin From Net: NetName=+5V Pin=F-USB2-2
+Removed Pin From Net: NetName=+3V3 Pin=R15-2
+Removed Member From Class: ClassName=USB-ESP32 Member=D65
+Removed Member From Class: ClassName=USB-ESP32 Member=D66
+Removed Member From Class: ClassName=USB-ESP32 Member=D67
+Removed Member From Class: ClassName=USB-ESP32 Member=D68
+Removed Member From Class: ClassName=USB-ESP32 Member=F-USB2
+Removed Member From Class: ClassName=USB-ESP32 Member=R15
+Added Component: Designator=U?(KTT0005B_L)
+Add component (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-169-AB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM2576HV&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "Switcher"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO-263, Molded, .400 x .390 x .180in, 5 Lead, .067in Pitch, Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "KTT0005B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM2576*HVS-5.0 P+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Class: Name=ESP32-POWER

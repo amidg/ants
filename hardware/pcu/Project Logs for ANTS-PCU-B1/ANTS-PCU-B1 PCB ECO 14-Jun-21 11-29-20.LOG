@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=ESTOP_PRESSED NewDesignator=ESTOP_OK
+Change Net Name : Old Net Name=NetESTOP_PRESSED_2 New Net Name=NetESTOP_OK_2

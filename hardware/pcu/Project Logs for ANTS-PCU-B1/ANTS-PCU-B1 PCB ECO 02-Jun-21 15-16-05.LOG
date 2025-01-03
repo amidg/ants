@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=+12 Pin=FAN2-1
+Removed Pin From Net: NetName=GND Pin=FAN2-2
+Removed Pin From Net: NetName=ENC1-PWR Pin=R79-1
+Removed Pin From Net: NetName=ENC2-PWR Pin=R80-1
+Removed Pin From Net: NetName=ENC3-PWR Pin=R81-1
+Removed Pin From Net: NetName=ENC4-PWR Pin=R82-1
+Removed Member From Class: ClassName=CONN Member=FAN2
+Removed Member From Class: ClassName=CONN Member=R79
+Removed Member From Class: ClassName=CONN Member=R80
+Removed Member From Class: ClassName=CONN Member=R81
+Removed Member From Class: ClassName=CONN Member=R82

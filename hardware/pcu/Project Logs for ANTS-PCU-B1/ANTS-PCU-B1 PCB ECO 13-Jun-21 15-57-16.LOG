@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=CHARGER_DETECTED NewDesignator=CHRG_DET
+Change Net Name : Old Net Name=NetCHARGER_DETECTED_2 New Net Name=NetCHRG_DET_2

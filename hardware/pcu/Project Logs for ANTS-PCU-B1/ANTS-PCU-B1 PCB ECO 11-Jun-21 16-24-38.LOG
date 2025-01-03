@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=GND Pin=PC_BUCK-1
+Removed Pin From Net: NetName=GND Pin=PC_BUCK-2
+Removed Pin From Net: NetName=GND Pin=PC_BUCK-4
+Removed Pin From Net: NetName=+24V_DIGITAL Pin=PC_BUCK-5
+Removed Pin From Net: NetName=+19V_PC_RAW Pin=PC_BUCK-7
+Removed Pin From Net: NetName=+19V_PC_RAW Pin=PC_BUCK-8
+Change Component Footprint: Designator=PC_BUCK Old Footprint=MOLX-43045-0812_V New Footprint=SMTC-TSM-104-01-X-DV
+Change Component Comment : Designator=PC_BUCK Old Comment=43045-0812 New Comment=TSM-104-01-L-DV
+Change Managed Component Library Link : Designator=PC_BUCK Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E8E15A97-F62B-4CD8-9E66-69E5B3CD4AAB New ItemGUID=D1B75F2F-4DB6-44FE-93C2-218FAF60848E Old RevisionGUID=52FE11C2-6DAF-414F-9E7D-353D935F746C New RevisionGUID=A3B993B0-CC07-437D-8042-FB40268ABC13
+Change component parameters: Designator = "PC_BUCK" ("PC_BUCK"); Footprint = "MOLX-43045-0812_V"; UniqueID = "\OFZTJTLP" ("\OFZTJTLP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSM.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSM-1XX-XX-XXX-XX-X-XXX-X-MKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Double Row Gullwing ASM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TSM-104-01-X-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "DJ, 4/1991"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TSM-104-01-L-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+19V_PC_RAW Pin=PC_BUCK-1
+Added Pin To Net: NetName=+19V_PC_RAW Pin=PC_BUCK-2
+Added Pin To Net: NetName=+19V_PC_RAW Pin=PC_BUCK-4
+Added Pin To Net: NetName=GND Pin=PC_BUCK-5
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PC_BUCK-7
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PC_BUCK-8
