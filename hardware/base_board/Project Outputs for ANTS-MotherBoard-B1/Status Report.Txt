@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ANTS-MotherBoard-B1.PrjPcb]
+   Generated File[ANTS-MotherBoard-B1-RoundHoles.TXT]
+   Generated File[ANTS-MotherBoard-B1-SlotHoles.TXT]
+   Generated File[ANTS-MotherBoard-B1.LDP]
+   Generated File[ANTS-MotherBoard-B1.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 13:55:01 On 05-Jul-21

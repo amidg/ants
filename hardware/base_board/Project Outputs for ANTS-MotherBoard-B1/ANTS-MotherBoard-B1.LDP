@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\amidg\OneDrive\GUSEV TECH\CAPSTONE\Hardware\Hardware Designs\ANTS-MotherBoard-B1\ANTS-MotherBoard-B1.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=ants-motherboard-b1-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=ants-motherboard-b1-slotholes.txt|DrillLayers=gtl,gbl

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=MOTOR2_OUT-1
+Removed Pin From Net: NetName=MOTOR2_CHB Pin=MOTOR2_OUT-4
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=MOTOR2_OUT-5
+Removed Pin From Net: NetName=MOTOR2_CHB Pin=MOTOR2_OUT-8
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=MOTOR3_OUT-1
+Removed Pin From Net: NetName=MOTOR3_CHB Pin=MOTOR3_OUT-4
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=MOTOR3_OUT-5
+Removed Pin From Net: NetName=MOTOR3_CHB Pin=MOTOR3_OUT-8
+Added Pin To Net: NetName=MOTOR2_CHB Pin=MOTOR2_OUT-1
+Added Pin To Net: NetName=MOTOR2_CHA Pin=MOTOR2_OUT-4
+Added Pin To Net: NetName=MOTOR2_CHB Pin=MOTOR2_OUT-5
+Added Pin To Net: NetName=MOTOR2_CHA Pin=MOTOR2_OUT-8
+Added Pin To Net: NetName=MOTOR3_CHB Pin=MOTOR3_OUT-1
+Added Pin To Net: NetName=MOTOR3_CHA Pin=MOTOR3_OUT-4
+Added Pin To Net: NetName=MOTOR3_CHB Pin=MOTOR3_OUT-5
+Added Pin To Net: NetName=MOTOR3_CHA Pin=MOTOR3_OUT-8

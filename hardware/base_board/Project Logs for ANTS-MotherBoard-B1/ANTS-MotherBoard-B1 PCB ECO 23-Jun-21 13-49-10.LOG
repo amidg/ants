@@ -1,0 +1,2250 @@
+Added Component: Designator=BATTERY_CONN(MOLX-43045-0800)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=C1(CAPC4532X155X60LL30T35)
+Add component (AddParameter): Name = "Applications"; Value = "SMPSFiltering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "ACTU_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C1812C102KGRACTU.pdf?pn=C1812C102KGRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "HighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "399-5086-ND-KITCERHI-VOLTAGECAPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "X7RDielectricHighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "399-3447-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "CapacitorBasics-TypicalUsesforCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.177"Lx0.126"W(4.50mmx3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.061"(1.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "2000V(2kV)"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC4532X155X60LL30T35)
+Add component (AddParameter): Name = "Applications"; Value = "SMPSFiltering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "ACTU_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C1812C102KGRACTU.pdf?pn=C1812C102KGRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "HighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "399-5086-ND-KITCERHI-VOLTAGECAPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "X7RDielectricHighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "399-3447-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "CapacitorBasics-TypicalUsesforCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.177"Lx0.126"W(4.50mmx3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.061"(1.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "2000V(2kV)"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC4532X155X60LL30T35)
+Add component (AddParameter): Name = "Applications"; Value = "SMPSFiltering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "ACTU_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C1812C102KGRACTU.pdf?pn=C1812C102KGRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "HighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "399-5086-ND-KITCERHI-VOLTAGECAPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "X7RDielectricHighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "399-3447-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "CapacitorBasics-TypicalUsesforCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.177"Lx0.126"W(4.50mmx3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.061"(1.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "2000V(2kV)"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPC4532X155X60LL30T35)
+Add component (AddParameter): Name = "Applications"; Value = "SMPSFiltering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "ACTU_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C1812C102KGRACTU.pdf?pn=C1812C102KGRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "HighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "399-5086-ND-KITCERHI-VOLTAGECAPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "X7RDielectricHighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "399-3447-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "CapacitorBasics-TypicalUsesforCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.177"Lx0.126"W(4.50mmx3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.061"(1.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "2000V(2kV)"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAPC4532X155X60LL30T35)
+Add component (AddParameter): Name = "Applications"; Value = "SMPSFiltering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "ACTU_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C1812C102KGRACTU.pdf?pn=C1812C102KGRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "HighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "399-5086-ND-KITCERHI-VOLTAGECAPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "X7RDielectricHighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "399-3447-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "CapacitorBasics-TypicalUsesforCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.177"Lx0.126"W(4.50mmx3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.061"(1.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "2000V(2kV)"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPC4532X155X60LL30T35)
+Add component (AddParameter): Name = "Applications"; Value = "SMPSFiltering"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "1000pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "ACTU_1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C1812C102KGRACTU.pdf?pn=C1812C102KGRACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "09/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "CeramicCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "HighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kits"; Value = "399-5086-ND-KITCERHI-VOLTAGECAPS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount,MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Online Catalog"; Value = "X7RDielectricHighVoltage"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C~125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "399-3447-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "1812(4532Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 4.5 x 3.2 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "1812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "CutTape(CT)  "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Training Modules"; Value = "CapacitorBasics-TypicalUsesforCapacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.177"Lx0.126"W(4.50mmx3.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.061"(1.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "2000V(2kV)"; VariantName = "[No Variations]"
+Added Component: Designator=C7(FP-C0805C-DN-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.33 ?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 0.33UF 50V X7R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C334K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50volts 0.33uF 10% X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c334k5ractu-kemet-10475704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33 ?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(FP-C0805C-DN-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "0.33 ?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Cap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://content.kemet.com/datasheets/KEM_C1003_C0G_SMD.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Passive Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CAP CER 0.33UF 50V X7R 0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.88mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ipc Land Pattern Name"; Value = "CAPC200125X78"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C334K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Description"; Value = "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50volts 0.33uF 10% X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/c0805c334k5ractu-kemet-10475704"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "C0805C-DN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55°C to +125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Characteristic"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "30ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "0.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.33 ?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50 V"; VariantName = "[No Variations]"
+Added Component: Designator=CHARGER_CONN(FP-43045-0400-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0430450400_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin,Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "8.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER R/A 4POS 3MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://www.molex.com/pdm_docs/sd/430450400_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/43045-0400-molex-287063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=DRIVE_CNTRL_UNIT1(SAMTEC_PCIE-164-02-X-D-TH)
+Added Component: Designator=DRIVE_CNTRL_UNIT2(SAMTEC_PCIE-164-02-X-D-TH)
+Added Component: Designator=DRIVE_CNTRL_UNIT3(SAMTEC_PCIE-164-02-X-D-TH)
+Added Component: Designator=DRIVE_CNTRL_UNIT4(SAMTEC_PCIE-164-02-X-D-TH)
+Added Component: Designator=ESTOP(MOLX-43045-0200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=ETH_DCU1(BELF-SI-60062-F_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://belfuse.com/pdfs/SI-60062-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "8P4C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 21.59 x 16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SI-60062-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Type"; Value = "STP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "17.98mm"; VariantName = "[No Variations]"
+Added Component: Designator=ETH_DCU2(BELF-SI-60062-F_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://belfuse.com/pdfs/SI-60062-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "8P4C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 21.59 x 16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SI-60062-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Type"; Value = "STP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "17.98mm"; VariantName = "[No Variations]"
+Added Component: Designator=ETH_DCU3(BELF-SI-60062-F_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://belfuse.com/pdfs/SI-60062-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "8P4C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 21.59 x 16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SI-60062-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Type"; Value = "STP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "17.98mm"; VariantName = "[No Variations]"
+Added Component: Designator=ETH_DCU4(BELF-SI-60062-F_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://belfuse.com/pdfs/SI-60062-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "8P4C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 21.59 x 16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SI-60062-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Type"; Value = "STP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "17.98mm"; VariantName = "[No Variations]"
+Added Component: Designator=ETH_PCU(BELF-SI-60062-F_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://belfuse.com/pdfs/SI-60062-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "8P4C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 21.59 x 16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SI-60062-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Type"; Value = "STP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "17.98mm"; VariantName = "[No Variations]"
+Added Component: Designator=ETH_SCU(BELF-SI-60062-F_V)
+Add component (AddParameter): Name = "Connector Type"; Value = "RJ45"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "CopperAlloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://belfuse.com/pdfs/SI-60062-F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. B0, 09/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "21.59mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "15.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://belfuse.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ways"; Value = "8P4C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "12-Pin Through Hole Device, Body 21.59 x 16.13 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SI-60062-F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "MagJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shield Type"; Value = "STP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "17.98mm"; VariantName = "[No Variations]"
+Added Component: Designator=GIGAVAC(MOLX-43045-1200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=LED_CONN(FP-43045-0400-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0430450400_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin,Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "8.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER R/A 4POS 3MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://www.molex.com/pdm_docs/sd/430450400_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/43045-0400-molex-287063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR1_OUT(MOLX-43045-0800)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR2_OUT(MOLX-43045-0800)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR3_OUT(MOLX-43045-0800)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=MOTOR4_OUT(MOLX-43045-0800)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=OVERRIDE_BTN(MOLX-43045-0200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=PC_POWER(FP-43045-0400-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0430450400_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin,Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "8.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER R/A 4POS 3MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://www.molex.com/pdm_docs/sd/430450400_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/43045-0400-molex-287063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=PWR_CNTRL_UNIT(SAMTEC_PCIE-164-02-X-D-TH)
+Added Component: Designator=R1(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC2013X60X35LL10T20)
+Add component (AddParameter): Name = "Case Code - in"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code - mm"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.yageo.com/documents/recent/PYu-RC_Group_51_RoHS_L_7.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 7, 05/2017"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.yageo.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-55Cto+155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mounted Device, Body 2 x 1.25 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "125mW(1/8W)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "ThickFilmResistorsGeneralPurpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "330Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100PPM/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "150V"; VariantName = "[No Variations]"
+Added Component: Designator=RESET_BTN(MOLX-43045-0200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=RF-RELAY(691709710305)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://katalog.we-online.de/em/datasheet/6917097103xx.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-45to130degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "691709710305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReelwithCap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "691709710305"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "5.00mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Added Component: Designator=ROUTER(CUI-PJ-002A_V)
+Add component (AddParameter): Name = "Brand"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "DCPowerJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.cui.com/product/resource/pj-002a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.03, 04/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PolybutyleneTerephthalate(PBT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inside Contact Diameter"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "50MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUIInc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.cui.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25Cto+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outside Contact Diameter"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Body 14.4 x 9 mm, Height 11 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "PJ-002A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Jacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "DCPowerConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=SPEAKER(CUI-PJ-002A_V)
+Add component (AddParameter): Name = "Brand"; Value = "CUI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "DCPowerJack"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Copper"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "2.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.cui.com/product/resource/pj-002a.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.03, 04/2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Pack Quantity"; Value = "500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Flammability Rating"; Value = "UL94V-0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Housing Material"; Value = "PolybutyleneTerephthalate(PBT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inside Contact Diameter"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Insulation Resistance"; Value = "50MOhms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CUIInc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.cui.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Angle"; Value = "Right"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Range"; Value = "-25Cto+85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outside Contact Diameter"; Value = "6.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Body 14.4 x 9 mm, Height 11 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "PJ-002A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product"; Value = "Jacks"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product Category"; Value = "DCPowerConnectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination Style"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "24V"; VariantName = "[No Variations]"
+Added Component: Designator=Sys_Cntrl_Unit(SAMTEC_PCIE-164-02-X-D-TH)
+Added Component: Designator=SYSMODE_BTN(FP-43045-0400-MFG)
+Add component (AddParameter): Name = "Automotive"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Conn"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.molex.com/webdocs/datasheets/pdf/en-us/0430450400_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Conn Orientation"; Value = "Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Tin,Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "8.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L1"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L2"; Value = "Headers and Wire Housings"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Class L3"; Value = "unset"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digikey Description"; Value = "CONN HEADER R/A 4POS 3MM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint Url"; Value = "https://www.molex.com/pdm_docs/sd/430450400_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "9.27mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Is Female"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number Of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Octopart"; Value = "https://octopart.com/43045-0400-molex-287063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "43045-0400"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40°C to +105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range High"; Value = "+105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range Low"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "600V"; VariantName = "[No Variations]"
+Added Component: Designator=SYSTEMON_BTN(MOLX-43045-0200)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/webdocs/datasheets/pdf/en-us/0430450812_PCB_HEADERS.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.molex.com/pdm_docs/sd/430450812_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Positions"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No. of Rows"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Pin PCB Header, Vertical, Pitch 3 mm, Mated Height 17.27 mm, Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "43045-0812"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "105 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "-40 degC"; VariantName = "[No Variations]"
+Added Component: Designator=U1(TO-252_M)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000448.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.28 mm Pitch, 9.7 mm Lead Span (DPAK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-252"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12_GIGAVAC Pin=C8-1
+Added Pin To Net: NetName=+12_GIGAVAC Pin=GIGAVAC-4
+Added Pin To Net: NetName=+12_GIGAVAC Pin=U1-3
+Added Net: Name=+12_GIGAVAC
+Added Pin To Net: NetName=+12V_ROUTER Pin=PWR_CNTRL_UNIT-A34
+Added Pin To Net: NetName=+12V_ROUTER Pin=PWR_CNTRL_UNIT-A35
+Added Pin To Net: NetName=+12V_ROUTER Pin=ROUTER-1
+Added Net: Name=+12V_ROUTER
+Added Pin To Net: NetName=+12V_SPEAKER Pin=PWR_CNTRL_UNIT-A32
+Added Pin To Net: NetName=+12V_SPEAKER Pin=PWR_CNTRL_UNIT-A33
+Added Pin To Net: NetName=+12V_SPEAKER Pin=SPEAKER-1
+Added Net: Name=+12V_SPEAKER
+Added Pin To Net: NetName=+19V_PC Pin=PC_POWER-2
+Added Pin To Net: NetName=+19V_PC Pin=PC_POWER-4
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A51
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A52
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A53
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A54
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A55
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A56
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A57
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A58
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A59
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A60
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A61
+Added Pin To Net: NetName=+19V_PC Pin=PWR_CNTRL_UNIT-A62
+Added Net: Name=+19V_PC
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=BATTERY_CONN-1
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=BATTERY_CONN-2
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=BATTERY_CONN-5
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=BATTERY_CONN-6
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=CHARGER_CONN-2
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=CHARGER_CONN-4
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A38
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A39
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A40
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A41
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A42
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A43
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A44
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A45
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A46
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A47
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A48
+Added Pin To Net: NetName=+24V_BAT_RAW Pin=PWR_CNTRL_UNIT-A49
+Added Net: Name=+24V_BAT_RAW
+Added Pin To Net: NetName=+24V_DIGITAL Pin=C7-1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-A1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-A2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-B1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-B2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-A1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-A2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-B1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-B2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-A1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-A2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-B1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-B2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-A1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-A2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-B1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-B2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PWR_CNTRL_UNIT-A1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PWR_CNTRL_UNIT-A2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PWR_CNTRL_UNIT-B1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=PWR_CNTRL_UNIT-B2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=Sys_Cntrl_Unit-A1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=Sys_Cntrl_Unit-A2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=Sys_Cntrl_Unit-B1
+Added Pin To Net: NetName=+24V_DIGITAL Pin=Sys_Cntrl_Unit-B2
+Added Pin To Net: NetName=+24V_DIGITAL Pin=U1-1
+Added Net: Name=+24V_DIGITAL
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=GIGAVAC-5
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=GIGAVAC-6
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=GIGAVAC-11
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=GIGAVAC-12
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A66
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A67
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A68
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A69
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A70
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A71
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A72
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A73
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A74
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A75
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A76
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A77
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A78
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A79
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A80
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A81
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-A82
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B66
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B67
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B68
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B69
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B70
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B71
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B72
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B73
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B74
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B75
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B76
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B77
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B78
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B79
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B80
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B81
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=PWR_CNTRL_UNIT-B82
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A66
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A67
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A68
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A69
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A70
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A71
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A72
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A73
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A74
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A75
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A76
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A77
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A78
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A79
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A80
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A81
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-A82
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B66
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B67
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B68
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B69
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B70
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B71
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B72
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B73
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B74
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B75
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B76
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B77
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B78
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B79
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B80
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B81
+Added Pin To Net: NetName=+24V_MOTOR_CONT Pin=Sys_Cntrl_Unit-B82
+Added Net: Name=+24V_MOTOR_CONT
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-A82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT1-B82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-A82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT2-B82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-A82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT3-B82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-A82
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B66
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B67
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B68
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B69
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B70
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B71
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B72
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B73
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B74
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B75
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B76
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B77
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B78
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B79
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B80
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B81
+Added Pin To Net: NetName=+24V_MOTOR Pin=DRIVE_CNTRL_UNIT4-B82
+Added Pin To Net: NetName=+24V_MOTOR Pin=GIGAVAC-1
+Added Pin To Net: NetName=+24V_MOTOR Pin=GIGAVAC-2
+Added Pin To Net: NetName=+24V_MOTOR Pin=GIGAVAC-7
+Added Pin To Net: NetName=+24V_MOTOR Pin=GIGAVAC-8
+Added Net: Name=+24V_MOTOR
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT1-A9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT1-A10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT1-B9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT1-B10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT2-A9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT2-A10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT2-B9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT2-B10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT3-A9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT3-A10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT3-B9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT3-B10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT4-A9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT4-A10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT4-B9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=DRIVE_CNTRL_UNIT4-B10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU1-10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU1-12
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU2-10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU2-12
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU3-10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU3-12
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU4-10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_DCU4-12
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_PCU-10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_PCU-12
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_SCU-10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=ETH_SCU-12
+Added Pin To Net: NetName=3V3_DIGITAL Pin=PWR_CNTRL_UNIT-A9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=PWR_CNTRL_UNIT-A10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=PWR_CNTRL_UNIT-B9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=PWR_CNTRL_UNIT-B10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=Sys_Cntrl_Unit-A9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=Sys_Cntrl_Unit-A10
+Added Pin To Net: NetName=3V3_DIGITAL Pin=Sys_Cntrl_Unit-B9
+Added Pin To Net: NetName=3V3_DIGITAL Pin=Sys_Cntrl_Unit-B10
+Added Net: Name=3V3_DIGITAL
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-A5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-A6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-B5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT1-B6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-A5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-A6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-B5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT2-B6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-A5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-A6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-B5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT3-B6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-A5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-A6
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-B5
+Added Pin To Net: NetName=5V_DIGITAL Pin=DRIVE_CNTRL_UNIT4-B6
+Added Pin To Net: NetName=5V_DIGITAL Pin=PWR_CNTRL_UNIT-A5
+Added Pin To Net: NetName=5V_DIGITAL Pin=PWR_CNTRL_UNIT-A6
+Added Pin To Net: NetName=5V_DIGITAL Pin=PWR_CNTRL_UNIT-B5
+Added Pin To Net: NetName=5V_DIGITAL Pin=PWR_CNTRL_UNIT-B6
+Added Pin To Net: NetName=5V_DIGITAL Pin=Sys_Cntrl_Unit-A5
+Added Pin To Net: NetName=5V_DIGITAL Pin=Sys_Cntrl_Unit-A6
+Added Pin To Net: NetName=5V_DIGITAL Pin=Sys_Cntrl_Unit-B5
+Added Pin To Net: NetName=5V_DIGITAL Pin=Sys_Cntrl_Unit-B6
+Added Net: Name=5V_DIGITAL
+Added Pin To Net: NetName=12V_RF_RELAY Pin=PWR_CNTRL_UNIT-A26
+Added Pin To Net: NetName=12V_RF_RELAY Pin=RF-RELAY-1
+Added Net: Name=12V_RF_RELAY
+Added Pin To Net: NetName=12V_SIG_RF Pin=PWR_CNTRL_UNIT-B26
+Added Pin To Net: NetName=12V_SIG_RF Pin=RF-RELAY-3
+Added Net: Name=12V_SIG_RF
+Added Pin To Net: NetName=ACT_LED_DCU1 Pin=DRIVE_CNTRL_UNIT1-B17
+Added Pin To Net: NetName=ACT_LED_DCU1 Pin=R6-2
+Added Net: Name=ACT_LED_DCU1
+Added Pin To Net: NetName=ACT_LED_DCU2 Pin=DRIVE_CNTRL_UNIT2-B17
+Added Pin To Net: NetName=ACT_LED_DCU2 Pin=R8-2
+Added Net: Name=ACT_LED_DCU2
+Added Pin To Net: NetName=ACT_LED_DCU3 Pin=DRIVE_CNTRL_UNIT3-B17
+Added Pin To Net: NetName=ACT_LED_DCU3 Pin=R10-2
+Added Net: Name=ACT_LED_DCU3
+Added Pin To Net: NetName=ACT_LED_DCU4 Pin=DRIVE_CNTRL_UNIT4-B17
+Added Pin To Net: NetName=ACT_LED_DCU4 Pin=R12-2
+Added Net: Name=ACT_LED_DCU4
+Added Pin To Net: NetName=ACT_LED_PCU Pin=PWR_CNTRL_UNIT-B17
+Added Pin To Net: NetName=ACT_LED_PCU Pin=R2-2
+Added Net: Name=ACT_LED_PCU
+Added Pin To Net: NetName=ACT_LED_SCU Pin=R4-2
+Added Pin To Net: NetName=ACT_LED_SCU Pin=Sys_Cntrl_Unit-B17
+Added Net: Name=ACT_LED_SCU
+Added Pin To Net: NetName=BAT_GND Pin=BATTERY_CONN-3
+Added Pin To Net: NetName=BAT_GND Pin=BATTERY_CONN-4
+Added Pin To Net: NetName=BAT_GND Pin=BATTERY_CONN-7
+Added Pin To Net: NetName=BAT_GND Pin=BATTERY_CONN-8
+Added Pin To Net: NetName=BAT_GND Pin=CHARGER_CONN-1
+Added Pin To Net: NetName=BAT_GND Pin=CHARGER_CONN-3
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B39
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B40
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B41
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B42
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B43
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B44
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B45
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B46
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B47
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B48
+Added Pin To Net: NetName=BAT_GND Pin=PWR_CNTRL_UNIT-B49
+Added Net: Name=BAT_GND
+Added Pin To Net: NetName=CHARGER_VCC Pin=PWR_CNTRL_UNIT-A20
+Added Pin To Net: NetName=CHARGER_VCC Pin=PWR_CNTRL_UNIT-A21
+Added Pin To Net: NetName=CHARGER_VCC Pin=PWR_CNTRL_UNIT-A22
+Added Pin To Net: NetName=CHARGER_VCC Pin=PWR_CNTRL_UNIT-A23
+Added Pin To Net: NetName=CHARGER_VCC Pin=PWR_CNTRL_UNIT-A24
+Added Net: Name=CHARGER_VCC
+Added Pin To Net: NetName=CHRG_GND Pin=PWR_CNTRL_UNIT-B20
+Added Pin To Net: NetName=CHRG_GND Pin=PWR_CNTRL_UNIT-B21
+Added Pin To Net: NetName=CHRG_GND Pin=PWR_CNTRL_UNIT-B22
+Added Pin To Net: NetName=CHRG_GND Pin=PWR_CNTRL_UNIT-B23
+Added Pin To Net: NetName=CHRG_GND Pin=PWR_CNTRL_UNIT-B24
+Added Net: Name=CHRG_GND
+Added Pin To Net: NetName=ENC1-A Pin=DRIVE_CNTRL_UNIT1-A25
+Added Pin To Net: NetName=ENC1-A Pin=MOTOR1_OUT-6
+Added Net: Name=ENC1-A
+Added Pin To Net: NetName=ENC1-B Pin=DRIVE_CNTRL_UNIT1-A26
+Added Pin To Net: NetName=ENC1-B Pin=MOTOR1_OUT-7
+Added Net: Name=ENC1-B
+Added Pin To Net: NetName=ENC1-I Pin=DRIVE_CNTRL_UNIT1-A27
+Added Net: Name=ENC1-I
+Added Pin To Net: NetName=ENC1-PWR Pin=DRIVE_CNTRL_UNIT1-A24
+Added Pin To Net: NetName=ENC1-PWR Pin=MOTOR1_OUT-2
+Added Net: Name=ENC1-PWR
+Added Pin To Net: NetName=ENC2-A Pin=DRIVE_CNTRL_UNIT1-B21
+Added Pin To Net: NetName=ENC2-A Pin=MOTOR2_OUT-6
+Added Net: Name=ENC2-A
+Added Pin To Net: NetName=ENC2-B Pin=DRIVE_CNTRL_UNIT1-B22
+Added Pin To Net: NetName=ENC2-B Pin=MOTOR2_OUT-7
+Added Net: Name=ENC2-B
+Added Pin To Net: NetName=ENC2-I Pin=DRIVE_CNTRL_UNIT1-B23
+Added Net: Name=ENC2-I
+Added Pin To Net: NetName=ENC2-PWR Pin=DRIVE_CNTRL_UNIT1-B20
+Added Pin To Net: NetName=ENC2-PWR Pin=MOTOR2_OUT-2
+Added Net: Name=ENC2-PWR
+Added Pin To Net: NetName=ENC3-A Pin=DRIVE_CNTRL_UNIT1-B26
+Added Pin To Net: NetName=ENC3-A Pin=MOTOR3_OUT-6
+Added Net: Name=ENC3-A
+Added Pin To Net: NetName=ENC3-B Pin=DRIVE_CNTRL_UNIT1-B27
+Added Pin To Net: NetName=ENC3-B Pin=MOTOR3_OUT-7
+Added Net: Name=ENC3-B
+Added Pin To Net: NetName=ENC3-I Pin=DRIVE_CNTRL_UNIT1-B28
+Added Net: Name=ENC3-I
+Added Pin To Net: NetName=ENC3-PWR Pin=DRIVE_CNTRL_UNIT1-B25
+Added Pin To Net: NetName=ENC3-PWR Pin=MOTOR3_OUT-2
+Added Net: Name=ENC3-PWR
+Added Pin To Net: NetName=ENC4-A Pin=DRIVE_CNTRL_UNIT1-A30
+Added Pin To Net: NetName=ENC4-A Pin=MOTOR4_OUT-6
+Added Net: Name=ENC4-A
+Added Pin To Net: NetName=ENC4-B Pin=DRIVE_CNTRL_UNIT1-A31
+Added Pin To Net: NetName=ENC4-B Pin=MOTOR4_OUT-7
+Added Net: Name=ENC4-B
+Added Pin To Net: NetName=ENC4-I Pin=DRIVE_CNTRL_UNIT1-A32
+Added Net: Name=ENC4-I
+Added Pin To Net: NetName=ENC4-PWR Pin=DRIVE_CNTRL_UNIT1-A29
+Added Pin To Net: NetName=ENC4-PWR Pin=MOTOR4_OUT-2
+Added Net: Name=ENC4-PWR
+Added Pin To Net: NetName=ESTOP_12V Pin=ESTOP-2
+Added Pin To Net: NetName=ESTOP_12V Pin=PWR_CNTRL_UNIT-A29
+Added Pin To Net: NetName=ESTOP_12V Pin=PWR_CNTRL_UNIT-A30
+Added Net: Name=ESTOP_12V
+Added Pin To Net: NetName=ESTOP_IN Pin=ESTOP-1
+Added Pin To Net: NetName=ESTOP_IN Pin=PWR_CNTRL_UNIT-B29
+Added Pin To Net: NetName=ESTOP_IN Pin=PWR_CNTRL_UNIT-B30
+Added Pin To Net: NetName=ESTOP_IN Pin=Sys_Cntrl_Unit-A29
+Added Pin To Net: NetName=ESTOP_IN Pin=Sys_Cntrl_Unit-A30
+Added Net: Name=ESTOP_IN
+Added Pin To Net: NetName=EXTRA_GND Pin=PWR_CNTRL_UNIT-B33
+Added Pin To Net: NetName=EXTRA_GND Pin=PWR_CNTRL_UNIT-B34
+Added Pin To Net: NetName=EXTRA_GND Pin=PWR_CNTRL_UNIT-B35
+Added Pin To Net: NetName=EXTRA_GND Pin=ROUTER-2
+Added Pin To Net: NetName=EXTRA_GND Pin=ROUTER-3
+Added Pin To Net: NetName=EXTRA_GND Pin=SPEAKER-2
+Added Pin To Net: NetName=EXTRA_GND Pin=SPEAKER-3
+Added Net: Name=EXTRA_GND
+Added Pin To Net: NetName=GIGAVAC-NC Pin=DRIVE_CNTRL_UNIT1-A34
+Added Pin To Net: NetName=GIGAVAC-NC Pin=GIGAVAC-9
+Added Net: Name=GIGAVAC-NC
+Added Pin To Net: NetName=GIGAVAC-NO Pin=DRIVE_CNTRL_UNIT1-B34
+Added Pin To Net: NetName=GIGAVAC-NO Pin=GIGAVAC-10
+Added Net: Name=GIGAVAC-NO
+Added Pin To Net: NetName=GND_ETH_DCU1 Pin=C3-1
+Added Pin To Net: NetName=GND_ETH_DCU1 Pin=ETH_DCU1-S1
+Added Pin To Net: NetName=GND_ETH_DCU1 Pin=ETH_DCU1-S2
+Added Net: Name=GND_ETH_DCU1
+Added Pin To Net: NetName=GND_ETH_DCU2 Pin=C4-1
+Added Pin To Net: NetName=GND_ETH_DCU2 Pin=ETH_DCU2-S1
+Added Pin To Net: NetName=GND_ETH_DCU2 Pin=ETH_DCU2-S2
+Added Net: Name=GND_ETH_DCU2
+Added Pin To Net: NetName=GND_ETH_DCU3 Pin=C5-1
+Added Pin To Net: NetName=GND_ETH_DCU3 Pin=ETH_DCU3-S1
+Added Pin To Net: NetName=GND_ETH_DCU3 Pin=ETH_DCU3-S2
+Added Net: Name=GND_ETH_DCU3
+Added Pin To Net: NetName=GND_ETH_DCU4 Pin=C6-1
+Added Pin To Net: NetName=GND_ETH_DCU4 Pin=ETH_DCU4-S1
+Added Pin To Net: NetName=GND_ETH_DCU4 Pin=ETH_DCU4-S2
+Added Net: Name=GND_ETH_DCU4
+Added Pin To Net: NetName=GND_ETH_PCU Pin=C1-1
+Added Pin To Net: NetName=GND_ETH_PCU Pin=ETH_PCU-S1
+Added Pin To Net: NetName=GND_ETH_PCU Pin=ETH_PCU-S2
+Added Net: Name=GND_ETH_PCU
+Added Pin To Net: NetName=GND_ETH_SCU Pin=C2-1
+Added Pin To Net: NetName=GND_ETH_SCU Pin=ETH_SCU-S1
+Added Pin To Net: NetName=GND_ETH_SCU Pin=ETH_SCU-S2
+Added Net: Name=GND_ETH_SCU
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A20
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A21
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A22
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A23
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A28
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-A65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B19
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B24
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B29
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B30
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B31
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B32
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT1-B65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A20
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A21
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A22
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A23
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-A65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B19
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B29
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B30
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B31
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B32
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT2-B65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A20
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A21
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A22
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A23
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-A65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B19
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B29
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B30
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B31
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B32
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT3-B65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A20
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A21
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A22
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A23
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-A65
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B3
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B4
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B7
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B8
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B15
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B18
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B19
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B29
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B30
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B31
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B32
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B33
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B35
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B36
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B37
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B43
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B44
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B50
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B51
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B57
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B58
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B64
+Added Pin To Net: NetName=GND Pin=DRIVE_CNTRL_UNIT4-B65
+Added Pin To Net: NetName=GND Pin=ETH_DCU1-8
+Added Pin To Net: NetName=GND Pin=ETH_DCU2-8
+Added Pin To Net: NetName=GND Pin=ETH_DCU3-8
+Added Pin To Net: NetName=GND Pin=ETH_DCU4-8
+Added Pin To Net: NetName=GND Pin=ETH_PCU-8
+Added Pin To Net: NetName=GND Pin=ETH_SCU-8
+Added Pin To Net: NetName=GND Pin=GIGAVAC-3
+Added Pin To Net: NetName=GND Pin=MOTOR1_OUT-3
+Added Pin To Net: NetName=GND Pin=MOTOR1_OUT-MH1
+Added Pin To Net: NetName=GND Pin=MOTOR1_OUT-MH2
+Added Pin To Net: NetName=GND Pin=MOTOR2_OUT-3
+Added Pin To Net: NetName=GND Pin=MOTOR2_OUT-MH1
+Added Pin To Net: NetName=GND Pin=MOTOR2_OUT-MH2
+Added Pin To Net: NetName=GND Pin=MOTOR3_OUT-3
+Added Pin To Net: NetName=GND Pin=MOTOR3_OUT-MH1
+Added Pin To Net: NetName=GND Pin=MOTOR3_OUT-MH2
+Added Pin To Net: NetName=GND Pin=MOTOR4_OUT-3
+Added Pin To Net: NetName=GND Pin=MOTOR4_OUT-MH1
+Added Pin To Net: NetName=GND Pin=MOTOR4_OUT-MH2
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A3
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A4
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A7
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A8
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A15
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A18
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A25
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A27
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A28
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A31
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A36
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A37
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A50
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A63
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A64
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-A65
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B3
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B4
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B7
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B8
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B15
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B18
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B19
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B25
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B28
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B31
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B32
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B36
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B37
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B38
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B63
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B64
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B65
+Added Pin To Net: NetName=GND Pin=RF-RELAY-2
+Added Pin To Net: NetName=GND Pin=RF-RELAY-5
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A3
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A4
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A7
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A8
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A15
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A18
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A19
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A24
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A25
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A26
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A28
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A31
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A32
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A33
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A34
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A35
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A36
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A37
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A38
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A39
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A40
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A41
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A42
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A43
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A44
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A45
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A46
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A47
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A48
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A49
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A50
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A51
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A52
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A53
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A54
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A55
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A56
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A57
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A58
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A59
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A60
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A61
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A62
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A63
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A64
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-A65
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B3
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B4
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B7
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B8
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B15
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B18
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B19
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B22
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B25
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B29
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B32
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B33
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B34
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B35
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B36
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B37
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B38
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B39
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B40
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B41
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B42
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B43
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B44
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B45
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B46
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B47
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B48
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B49
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B50
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B51
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B52
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B53
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B54
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B55
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B56
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B57
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B58
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B59
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B60
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B61
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B62
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B63
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B64
+Added Pin To Net: NetName=GND Pin=Sys_Cntrl_Unit-B65
+Added Pin To Net: NetName=GND Pin=SYSMODE_BTN-4
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=LED_GND Pin=LED_CONN-4
+Added Pin To Net: NetName=LED_GND Pin=Sys_Cntrl_Unit-A23
+Added Net: Name=LED_GND
+Added Pin To Net: NetName=LED_MOSI Pin=LED_CONN-2
+Added Pin To Net: NetName=LED_MOSI Pin=Sys_Cntrl_Unit-A21
+Added Net: Name=LED_MOSI
+Added Pin To Net: NetName=LED_PWR Pin=LED_CONN-1
+Added Pin To Net: NetName=LED_PWR Pin=Sys_Cntrl_Unit-A20
+Added Net: Name=LED_PWR
+Added Pin To Net: NetName=LED_SCLK Pin=LED_CONN-3
+Added Pin To Net: NetName=LED_SCLK Pin=Sys_Cntrl_Unit-A22
+Added Net: Name=LED_SCLK
+Added Pin To Net: NetName=LINK_LED_DCU1 Pin=DRIVE_CNTRL_UNIT1-B16
+Added Pin To Net: NetName=LINK_LED_DCU1 Pin=R5-2
+Added Net: Name=LINK_LED_DCU1
+Added Pin To Net: NetName=LINK_LED_DCU2 Pin=DRIVE_CNTRL_UNIT2-B16
+Added Pin To Net: NetName=LINK_LED_DCU2 Pin=R7-2
+Added Net: Name=LINK_LED_DCU2
+Added Pin To Net: NetName=LINK_LED_DCU3 Pin=DRIVE_CNTRL_UNIT3-B16
+Added Pin To Net: NetName=LINK_LED_DCU3 Pin=R9-2
+Added Net: Name=LINK_LED_DCU3
+Added Pin To Net: NetName=LINK_LED_DCU4 Pin=DRIVE_CNTRL_UNIT4-B16
+Added Pin To Net: NetName=LINK_LED_DCU4 Pin=R11-2
+Added Net: Name=LINK_LED_DCU4
+Added Pin To Net: NetName=LINK_LED_PCU Pin=PWR_CNTRL_UNIT-B16
+Added Pin To Net: NetName=LINK_LED_PCU Pin=R1-2
+Added Net: Name=LINK_LED_PCU
+Added Pin To Net: NetName=LINK_LED_SCU Pin=R3-2
+Added Pin To Net: NetName=LINK_LED_SCU Pin=Sys_Cntrl_Unit-B16
+Added Net: Name=LINK_LED_SCU
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT1-A38
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT1-A39
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT1-A40
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT1-A41
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT1-A42
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT2-A38
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT2-A39
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT2-A40
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT2-A41
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT2-A42
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT3-A38
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT3-A39
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT3-A40
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT3-A41
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT3-A42
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT4-A38
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT4-A39
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT4-A40
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT4-A41
+Added Pin To Net: NetName=MOTOR1_CHA Pin=DRIVE_CNTRL_UNIT4-A42
+Added Pin To Net: NetName=MOTOR1_CHA Pin=MOTOR1_OUT-1
+Added Pin To Net: NetName=MOTOR1_CHA Pin=MOTOR1_OUT-5
+Added Net: Name=MOTOR1_CHA
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT1-A45
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT1-A46
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT1-A47
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT1-A48
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT1-A49
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT2-A45
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT2-A46
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT2-A47
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT2-A48
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT2-A49
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT3-A45
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT3-A46
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT3-A47
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT3-A48
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT3-A49
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT4-A45
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT4-A46
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT4-A47
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT4-A48
+Added Pin To Net: NetName=MOTOR1_CHB Pin=DRIVE_CNTRL_UNIT4-A49
+Added Pin To Net: NetName=MOTOR1_CHB Pin=MOTOR1_OUT-4
+Added Pin To Net: NetName=MOTOR1_CHB Pin=MOTOR1_OUT-8
+Added Net: Name=MOTOR1_CHB
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT1-B38
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT1-B39
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT1-B40
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT1-B41
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT1-B42
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT2-B38
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT2-B39
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT2-B40
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT2-B41
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT2-B42
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT3-B38
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT3-B39
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT3-B40
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT3-B41
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT3-B42
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT4-B38
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT4-B39
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT4-B40
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT4-B41
+Added Pin To Net: NetName=MOTOR2_CHA Pin=DRIVE_CNTRL_UNIT4-B42
+Added Pin To Net: NetName=MOTOR2_CHA Pin=MOTOR2_OUT-1
+Added Pin To Net: NetName=MOTOR2_CHA Pin=MOTOR2_OUT-5
+Added Net: Name=MOTOR2_CHA
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT1-B45
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT1-B46
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT1-B47
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT1-B48
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT1-B49
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT2-B45
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT2-B46
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT2-B47
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT2-B48
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT2-B49
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT3-B45
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT3-B46
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT3-B47
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT3-B48
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT3-B49
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT4-B45
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT4-B46
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT4-B47
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT4-B48
+Added Pin To Net: NetName=MOTOR2_CHB Pin=DRIVE_CNTRL_UNIT4-B49
+Added Pin To Net: NetName=MOTOR2_CHB Pin=MOTOR2_OUT-4
+Added Pin To Net: NetName=MOTOR2_CHB Pin=MOTOR2_OUT-8
+Added Net: Name=MOTOR2_CHB
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT1-B52
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT1-B53
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT1-B54
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT1-B55
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT1-B56
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT2-B52
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT2-B53
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT2-B54
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT2-B55
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT2-B56
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT3-B52
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT3-B53
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT3-B54
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT3-B55
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT3-B56
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT4-B52
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT4-B53
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT4-B54
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT4-B55
+Added Pin To Net: NetName=MOTOR3_CHA Pin=DRIVE_CNTRL_UNIT4-B56
+Added Pin To Net: NetName=MOTOR3_CHA Pin=MOTOR3_OUT-1
+Added Pin To Net: NetName=MOTOR3_CHA Pin=MOTOR3_OUT-5
+Added Net: Name=MOTOR3_CHA
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT1-B59
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT1-B60
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT1-B61
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT1-B62
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT1-B63
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT2-B59
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT2-B60
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT2-B61
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT2-B62
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT2-B63
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT3-B59
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT3-B60
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT3-B61
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT3-B62
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT3-B63
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT4-B59
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT4-B60
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT4-B61
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT4-B62
+Added Pin To Net: NetName=MOTOR3_CHB Pin=DRIVE_CNTRL_UNIT4-B63
+Added Pin To Net: NetName=MOTOR3_CHB Pin=MOTOR3_OUT-4
+Added Pin To Net: NetName=MOTOR3_CHB Pin=MOTOR3_OUT-8
+Added Net: Name=MOTOR3_CHB
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT1-A52
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT1-A53
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT1-A54
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT1-A55
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT1-A56
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT2-A52
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT2-A53
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT2-A54
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT2-A55
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT2-A56
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT3-A52
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT3-A53
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT3-A54
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT3-A55
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT3-A56
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT4-A52
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT4-A53
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT4-A54
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT4-A55
+Added Pin To Net: NetName=MOTOR4_CHA Pin=DRIVE_CNTRL_UNIT4-A56
+Added Pin To Net: NetName=MOTOR4_CHA Pin=MOTOR4_OUT-1
+Added Pin To Net: NetName=MOTOR4_CHA Pin=MOTOR4_OUT-5
+Added Net: Name=MOTOR4_CHA
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT1-A59
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT1-A60
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT1-A61
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT1-A62
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT1-A63
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT2-A59
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT2-A60
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT2-A61
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT2-A62
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT2-A63
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT3-A59
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT3-A60
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT3-A61
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT3-A62
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT3-A63
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT4-A59
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT4-A60
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT4-A61
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT4-A62
+Added Pin To Net: NetName=MOTOR4_CHB Pin=DRIVE_CNTRL_UNIT4-A63
+Added Pin To Net: NetName=MOTOR4_CHB Pin=MOTOR4_OUT-4
+Added Pin To Net: NetName=MOTOR4_CHB Pin=MOTOR4_OUT-8
+Added Net: Name=MOTOR4_CHB
+Added Pin To Net: NetName=NetETH_DCU1_9 Pin=ETH_DCU1-9
+Added Pin To Net: NetName=NetETH_DCU1_9 Pin=R6-1
+Added Net: Name=NetETH_DCU1_9
+Added Pin To Net: NetName=NetETH_DCU1_11 Pin=ETH_DCU1-11
+Added Pin To Net: NetName=NetETH_DCU1_11 Pin=R5-1
+Added Net: Name=NetETH_DCU1_11
+Added Pin To Net: NetName=NetETH_DCU2_9 Pin=ETH_DCU2-9
+Added Pin To Net: NetName=NetETH_DCU2_9 Pin=R8-1
+Added Net: Name=NetETH_DCU2_9
+Added Pin To Net: NetName=NetETH_DCU2_11 Pin=ETH_DCU2-11
+Added Pin To Net: NetName=NetETH_DCU2_11 Pin=R7-1
+Added Net: Name=NetETH_DCU2_11
+Added Pin To Net: NetName=NetETH_DCU3_9 Pin=ETH_DCU3-9
+Added Pin To Net: NetName=NetETH_DCU3_9 Pin=R10-1
+Added Net: Name=NetETH_DCU3_9
+Added Pin To Net: NetName=NetETH_DCU3_11 Pin=ETH_DCU3-11
+Added Pin To Net: NetName=NetETH_DCU3_11 Pin=R9-1
+Added Net: Name=NetETH_DCU3_11
+Added Pin To Net: NetName=NetETH_DCU4_9 Pin=ETH_DCU4-9
+Added Pin To Net: NetName=NetETH_DCU4_9 Pin=R12-1
+Added Net: Name=NetETH_DCU4_9
+Added Pin To Net: NetName=NetETH_DCU4_11 Pin=ETH_DCU4-11
+Added Pin To Net: NetName=NetETH_DCU4_11 Pin=R11-1
+Added Net: Name=NetETH_DCU4_11
+Added Pin To Net: NetName=NetETH_PCU_9 Pin=ETH_PCU-9
+Added Pin To Net: NetName=NetETH_PCU_9 Pin=R2-1
+Added Net: Name=NetETH_PCU_9
+Added Pin To Net: NetName=NetETH_PCU_11 Pin=ETH_PCU-11
+Added Pin To Net: NetName=NetETH_PCU_11 Pin=R1-1
+Added Net: Name=NetETH_PCU_11
+Added Pin To Net: NetName=NetETH_SCU_9 Pin=ETH_SCU-9
+Added Pin To Net: NetName=NetETH_SCU_9 Pin=R4-1
+Added Net: Name=NetETH_SCU_9
+Added Pin To Net: NetName=NetETH_SCU_11 Pin=ETH_SCU-11
+Added Pin To Net: NetName=NetETH_SCU_11 Pin=R3-1
+Added Net: Name=NetETH_SCU_11
+Added Pin To Net: NetName=PC_GND Pin=PC_POWER-1
+Added Pin To Net: NetName=PC_GND Pin=PC_POWER-3
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B50
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B51
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B52
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B53
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B54
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B55
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B56
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B57
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B58
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B59
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B60
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B61
+Added Pin To Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B62
+Added Net: Name=PC_GND
+Added Pin To Net: NetName=RCT_DCU1 Pin=DRIVE_CNTRL_UNIT1-B14
+Added Pin To Net: NetName=RCT_DCU1 Pin=ETH_DCU1-6
+Added Net: Name=RCT_DCU1
+Added Pin To Net: NetName=RCT_DCU2 Pin=DRIVE_CNTRL_UNIT2-B14
+Added Pin To Net: NetName=RCT_DCU2 Pin=ETH_DCU2-6
+Added Net: Name=RCT_DCU2
+Added Pin To Net: NetName=RCT_DCU3 Pin=DRIVE_CNTRL_UNIT3-B14
+Added Pin To Net: NetName=RCT_DCU3 Pin=ETH_DCU3-6
+Added Net: Name=RCT_DCU3
+Added Pin To Net: NetName=RCT_DCU4 Pin=DRIVE_CNTRL_UNIT4-B14
+Added Pin To Net: NetName=RCT_DCU4 Pin=ETH_DCU4-6
+Added Net: Name=RCT_DCU4
+Added Pin To Net: NetName=RCT_PCU Pin=ETH_PCU-6
+Added Pin To Net: NetName=RCT_PCU Pin=PWR_CNTRL_UNIT-B14
+Added Net: Name=RCT_PCU
+Added Pin To Net: NetName=RCT_SCU Pin=ETH_SCU-6
+Added Pin To Net: NetName=RCT_SCU Pin=Sys_Cntrl_Unit-B14
+Added Net: Name=RCT_SCU
+Added Pin To Net: NetName=RD+_DCU1 Pin=DRIVE_CNTRL_UNIT1-A16
+Added Pin To Net: NetName=RD+_DCU1 Pin=ETH_DCU1-5
+Added Net: Name=RD+_DCU1
+Added Pin To Net: NetName=RD+_DCU2 Pin=DRIVE_CNTRL_UNIT2-A16
+Added Pin To Net: NetName=RD+_DCU2 Pin=ETH_DCU2-5
+Added Net: Name=RD+_DCU2
+Added Pin To Net: NetName=RD+_DCU3 Pin=DRIVE_CNTRL_UNIT3-A16
+Added Pin To Net: NetName=RD+_DCU3 Pin=ETH_DCU3-5
+Added Net: Name=RD+_DCU3
+Added Pin To Net: NetName=RD+_DCU4 Pin=DRIVE_CNTRL_UNIT4-A16
+Added Pin To Net: NetName=RD+_DCU4 Pin=ETH_DCU4-5
+Added Net: Name=RD+_DCU4
+Added Pin To Net: NetName=RD+_PCU Pin=ETH_PCU-5
+Added Pin To Net: NetName=RD+_PCU Pin=PWR_CNTRL_UNIT-A16
+Added Net: Name=RD+_PCU
+Added Pin To Net: NetName=RD+_SCU Pin=ETH_SCU-5
+Added Pin To Net: NetName=RD+_SCU Pin=Sys_Cntrl_Unit-A16
+Added Net: Name=RD+_SCU
+Added Pin To Net: NetName=RD-_DCU1 Pin=DRIVE_CNTRL_UNIT1-A17
+Added Pin To Net: NetName=RD-_DCU1 Pin=ETH_DCU1-7
+Added Net: Name=RD-_DCU1
+Added Pin To Net: NetName=RD-_DCU2 Pin=DRIVE_CNTRL_UNIT2-A17
+Added Pin To Net: NetName=RD-_DCU2 Pin=ETH_DCU2-7
+Added Net: Name=RD-_DCU2
+Added Pin To Net: NetName=RD-_DCU3 Pin=DRIVE_CNTRL_UNIT3-A17
+Added Pin To Net: NetName=RD-_DCU3 Pin=ETH_DCU3-7
+Added Net: Name=RD-_DCU3
+Added Pin To Net: NetName=RD-_DCU4 Pin=DRIVE_CNTRL_UNIT4-A17
+Added Pin To Net: NetName=RD-_DCU4 Pin=ETH_DCU4-7
+Added Net: Name=RD-_DCU4
+Added Pin To Net: NetName=RD-_PCU Pin=ETH_PCU-7
+Added Pin To Net: NetName=RD-_PCU Pin=PWR_CNTRL_UNIT-A17
+Added Net: Name=RD-_PCU
+Added Pin To Net: NetName=RD-_SCU Pin=ETH_SCU-7
+Added Pin To Net: NetName=RD-_SCU Pin=Sys_Cntrl_Unit-A17
+Added Net: Name=RD-_SCU
+Added Pin To Net: NetName=RF_RELAY_IN Pin=PWR_CNTRL_UNIT-B27
+Added Pin To Net: NetName=RF_RELAY_IN Pin=RF-RELAY-4
+Added Pin To Net: NetName=RF_RELAY_IN Pin=Sys_Cntrl_Unit-A27
+Added Net: Name=RF_RELAY_IN
+Added Pin To Net: NetName=SCU_OVERRIDE_BTN Pin=OVERRIDE_BTN-1
+Added Pin To Net: NetName=SCU_OVERRIDE_BTN Pin=Sys_Cntrl_Unit-B24
+Added Net: Name=SCU_OVERRIDE_BTN
+Added Pin To Net: NetName=SCU_OVERRIDE_PWR Pin=OVERRIDE_BTN-2
+Added Pin To Net: NetName=SCU_OVERRIDE_PWR Pin=Sys_Cntrl_Unit-B23
+Added Net: Name=SCU_OVERRIDE_PWR
+Added Pin To Net: NetName=SCU_RESET_BTN Pin=RESET_BTN-1
+Added Pin To Net: NetName=SCU_RESET_BTN Pin=Sys_Cntrl_Unit-B21
+Added Net: Name=SCU_RESET_BTN
+Added Pin To Net: NetName=SCU_RESET_PWR Pin=RESET_BTN-2
+Added Pin To Net: NetName=SCU_RESET_PWR Pin=Sys_Cntrl_Unit-B20
+Added Net: Name=SCU_RESET_PWR
+Added Pin To Net: NetName=SCU_SYSMODE_AUTO Pin=Sys_Cntrl_Unit-B27
+Added Pin To Net: NetName=SCU_SYSMODE_AUTO Pin=SYSMODE_BTN-2
+Added Net: Name=SCU_SYSMODE_AUTO
+Added Pin To Net: NetName=SCU_SYSMODE_MNL Pin=Sys_Cntrl_Unit-B28
+Added Pin To Net: NetName=SCU_SYSMODE_MNL Pin=SYSMODE_BTN-3
+Added Net: Name=SCU_SYSMODE_MNL
+Added Pin To Net: NetName=SCU_SYSMODE_PWR Pin=Sys_Cntrl_Unit-B26
+Added Pin To Net: NetName=SCU_SYSMODE_PWR Pin=SYSMODE_BTN-1
+Added Net: Name=SCU_SYSMODE_PWR
+Added Pin To Net: NetName=SCU_SYSTEMON_BTN Pin=Sys_Cntrl_Unit-B31
+Added Pin To Net: NetName=SCU_SYSTEMON_BTN Pin=SYSTEMON_BTN-1
+Added Net: Name=SCU_SYSTEMON_BTN
+Added Pin To Net: NetName=SCU_SYSTEMON_PWR Pin=Sys_Cntrl_Unit-B30
+Added Pin To Net: NetName=SCU_SYSTEMON_PWR Pin=SYSTEMON_BTN-2
+Added Net: Name=SCU_SYSTEMON_PWR
+Added Pin To Net: NetName=TCT_DCU1 Pin=DRIVE_CNTRL_UNIT1-B13
+Added Pin To Net: NetName=TCT_DCU1 Pin=ETH_DCU1-2
+Added Net: Name=TCT_DCU1
+Added Pin To Net: NetName=TCT_DCU2 Pin=DRIVE_CNTRL_UNIT2-B13
+Added Pin To Net: NetName=TCT_DCU2 Pin=ETH_DCU2-2
+Added Net: Name=TCT_DCU2
+Added Pin To Net: NetName=TCT_DCU3 Pin=DRIVE_CNTRL_UNIT3-B13
+Added Pin To Net: NetName=TCT_DCU3 Pin=ETH_DCU3-2
+Added Net: Name=TCT_DCU3
+Added Pin To Net: NetName=TCT_DCU4 Pin=DRIVE_CNTRL_UNIT4-B13
+Added Pin To Net: NetName=TCT_DCU4 Pin=ETH_DCU4-2
+Added Net: Name=TCT_DCU4
+Added Pin To Net: NetName=TCT_PCU Pin=ETH_PCU-2
+Added Pin To Net: NetName=TCT_PCU Pin=PWR_CNTRL_UNIT-B13
+Added Net: Name=TCT_PCU
+Added Pin To Net: NetName=TCT_SCU Pin=ETH_SCU-2
+Added Pin To Net: NetName=TCT_SCU Pin=Sys_Cntrl_Unit-B13
+Added Net: Name=TCT_SCU
+Added Pin To Net: NetName=TD+_DCU1 Pin=DRIVE_CNTRL_UNIT1-A13
+Added Pin To Net: NetName=TD+_DCU1 Pin=ETH_DCU1-1
+Added Net: Name=TD+_DCU1
+Added Pin To Net: NetName=TD+_DCU2 Pin=DRIVE_CNTRL_UNIT2-A13
+Added Pin To Net: NetName=TD+_DCU2 Pin=ETH_DCU2-1
+Added Net: Name=TD+_DCU2
+Added Pin To Net: NetName=TD+_DCU3 Pin=DRIVE_CNTRL_UNIT3-A13
+Added Pin To Net: NetName=TD+_DCU3 Pin=ETH_DCU3-1
+Added Net: Name=TD+_DCU3
+Added Pin To Net: NetName=TD+_DCU4 Pin=DRIVE_CNTRL_UNIT4-A13
+Added Pin To Net: NetName=TD+_DCU4 Pin=ETH_DCU4-1
+Added Net: Name=TD+_DCU4
+Added Pin To Net: NetName=TD+_PCU Pin=ETH_PCU-1
+Added Pin To Net: NetName=TD+_PCU Pin=PWR_CNTRL_UNIT-A13
+Added Net: Name=TD+_PCU
+Added Pin To Net: NetName=TD+_SCU Pin=ETH_SCU-1
+Added Pin To Net: NetName=TD+_SCU Pin=Sys_Cntrl_Unit-A13
+Added Net: Name=TD+_SCU
+Added Pin To Net: NetName=TD-_DCU1 Pin=DRIVE_CNTRL_UNIT1-A14
+Added Pin To Net: NetName=TD-_DCU1 Pin=ETH_DCU1-3
+Added Net: Name=TD-_DCU1
+Added Pin To Net: NetName=TD-_DCU2 Pin=DRIVE_CNTRL_UNIT2-A14
+Added Pin To Net: NetName=TD-_DCU2 Pin=ETH_DCU2-3
+Added Net: Name=TD-_DCU2
+Added Pin To Net: NetName=TD-_DCU3 Pin=DRIVE_CNTRL_UNIT3-A14
+Added Pin To Net: NetName=TD-_DCU3 Pin=ETH_DCU3-3
+Added Net: Name=TD-_DCU3
+Added Pin To Net: NetName=TD-_DCU4 Pin=DRIVE_CNTRL_UNIT4-A14
+Added Pin To Net: NetName=TD-_DCU4 Pin=ETH_DCU4-3
+Added Net: Name=TD-_DCU4
+Added Pin To Net: NetName=TD-_PCU Pin=ETH_PCU-3
+Added Pin To Net: NetName=TD-_PCU Pin=PWR_CNTRL_UNIT-A14
+Added Net: Name=TD-_PCU
+Added Pin To Net: NetName=TD-_SCU Pin=ETH_SCU-3
+Added Pin To Net: NetName=TD-_SCU Pin=Sys_Cntrl_Unit-A14
+Added Net: Name=TD-_SCU
+Added Class: Name=Ethernet
+Added Class: Name=Motor1_PCIe
+Added Class: Name=Motor2_PCIe
+Added Class: Name=Motor3_PCIe
+Added Class: Name=Motor4_PCIe
+Added Class: Name=Motor_External_Connectors
+Added Class: Name=PCU_PCIe
+Added Class: Name=Power_External_Connectors
+Added Class: Name=SCU_External_Connectors
+Added Class: Name=SCU_PCIe

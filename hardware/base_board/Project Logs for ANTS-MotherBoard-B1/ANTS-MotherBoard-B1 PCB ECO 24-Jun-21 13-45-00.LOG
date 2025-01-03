@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+24V_BAT_RAW Pin=CHARGER_CONN-2
+Removed Pin From Net: NetName=+24V_BAT_RAW Pin=CHARGER_CONN-4
+Added Pin To Net: NetName=CHARGER_VCC Pin=CHARGER_CONN-2
+Added Pin To Net: NetName=CHARGER_VCC Pin=CHARGER_CONN-4

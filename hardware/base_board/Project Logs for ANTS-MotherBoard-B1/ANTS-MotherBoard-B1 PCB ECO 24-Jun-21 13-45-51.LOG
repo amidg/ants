@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=BAT_GND Pin=CHARGER_CONN-1
+Removed Pin From Net: NetName=BAT_GND Pin=CHARGER_CONN-3
+Added Pin To Net: NetName=CHRG_GND Pin=CHARGER_CONN-1
+Added Pin To Net: NetName=CHRG_GND Pin=CHARGER_CONN-3

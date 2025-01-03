@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=PC_GND Pin=PWR_CNTRL_UNIT-B50
+Added Pin To Net: NetName=GND Pin=PWR_CNTRL_UNIT-B50

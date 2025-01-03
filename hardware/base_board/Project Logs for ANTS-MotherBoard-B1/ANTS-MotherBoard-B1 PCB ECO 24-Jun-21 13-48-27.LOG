@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=PC_GND Pin=PC_POWER-1
+Removed Pin From Net: NetName=+19V_PC Pin=PC_POWER-2
+Removed Pin From Net: NetName=PC_GND Pin=PC_POWER-3
+Removed Pin From Net: NetName=+19V_PC Pin=PC_POWER-4
+Added Pin To Net: NetName=+19V_PC Pin=PC_POWER-1
+Added Pin To Net: NetName=PC_GND Pin=PC_POWER-2
+Added Pin To Net: NetName=+19V_PC Pin=PC_POWER-3
+Added Pin To Net: NetName=PC_GND Pin=PC_POWER-4
