@@ -1,0 +1,15 @@
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=3V3_D
+Removed Member From Class: ClassName=RELAYS Member=3V3_D
+Change Component Designator: OldDesignator=VSPI-CS-5 NewDesignator=CS5
+Change Component Designator: OldDesignator=VSPI-CS-25 NewDesignator=CS25
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R59 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R61 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R63 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R64 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R66 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R67 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R68 0R 5% 0805
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R70 0R 5% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R72 1K 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R73 1K 1% 0805
+Added Member To Class: ClassName=RELAYS Member=Component R74 10K 1% 0805

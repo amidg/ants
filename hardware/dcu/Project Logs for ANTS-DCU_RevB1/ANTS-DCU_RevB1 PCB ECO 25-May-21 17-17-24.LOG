@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=24V_DIGITAL Pin=C52-1
+Added Pin To Net: NetName=24V_DIGITAL Pin=U8-1
+Change Net Name : Old Net Name=24V_DIGITAL New Net Name=+24V_DIGITAL

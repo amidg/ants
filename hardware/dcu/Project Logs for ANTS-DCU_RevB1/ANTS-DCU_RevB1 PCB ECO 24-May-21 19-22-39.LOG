@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=INTn Pin=W5500_DEBUG-2
+Removed Pin From Net: NetName=W5500-MOSI Pin=W5500_DEBUG-3
+Removed Pin From Net: NetName=W5500-SCK Pin=W5500_DEBUG-5
+Removed Pin From Net: NetName=W5500-CS Pin=W5500_DEBUG-6
+Removed Pin From Net: NetName=W5500-RST Pin=W5500_DEBUG-7
+Removed Pin From Net: NetName=GND Pin=W5500_DEBUG-8
+Change Component Footprint: Designator=W5500_DEBUG Old Footprint=61300811121 New Footprint=SMTC-TSM-104-01-X-DV
+Change Component Comment : Designator=W5500_DEBUG Old Comment=61300811121 New Comment=TSM-104-01-T-DV
+Change Managed Component Library Link : Designator=W5500_DEBUG Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2615ADFC-2EA6-4AD2-9757-89403FB1141F New ItemGUID=ABD4D58C-7C12-4A40-817D-DE3EBAD7889E Old RevisionGUID=94A3B908-2112-4854-B1EA-5BECC85763F0 New RevisionGUID=7BF16242-A579-452F-B07A-49F0A4533BEE
+Change component parameters: Designator = "W5500_DEBUG" ("W5500_DEBUG"); Footprint = "61300811121"; UniqueID = "\BFFSXNSO" ("\BFFSXNSO")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSM.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSM-1XX-XX-XXX-XX-X-XXX-X-MKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Double Row Gullwing ASM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TSM-104-01-X-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "DJ, 4/1991"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "TSM-104-01-T-DV"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=W5500-MOSI Pin=W5500_DEBUG-2
+Added Pin To Net: NetName=INTn Pin=W5500_DEBUG-3
+Added Pin To Net: NetName=W5500-RST Pin=W5500_DEBUG-5
+Added Pin To Net: NetName=W5500-SCK Pin=W5500_DEBUG-6
+Added Pin To Net: NetName=GND Pin=W5500_DEBUG-7
+Added Pin To Net: NetName=W5500-CS Pin=W5500_DEBUG-8

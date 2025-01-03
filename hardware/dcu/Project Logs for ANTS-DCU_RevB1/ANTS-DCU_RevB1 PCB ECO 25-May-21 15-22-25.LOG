@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+3V3 Pin=W5500_DEBUG-1
+Removed Pin From Net: NetName=W5500-MOSI Pin=W5500_DEBUG-2
+Removed Pin From Net: NetName=INTn Pin=W5500_DEBUG-3
+Removed Pin From Net: NetName=W5500-MISO Pin=W5500_DEBUG-4
+Removed Pin From Net: NetName=W5500-RST Pin=W5500_DEBUG-5
+Removed Pin From Net: NetName=W5500-SCK Pin=W5500_DEBUG-6
+Removed Pin From Net: NetName=GND Pin=W5500_DEBUG-7
+Removed Pin From Net: NetName=W5500-CS Pin=W5500_DEBUG-8
+Removed Member From Class: ClassName=Ethernet Member=W5500_DEBUG

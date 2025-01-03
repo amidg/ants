@@ -1,0 +1,6 @@
+Added Component: Designator=60mmFAN(50mmX50mmFAN)
+Added Pin To Net: NetName=GND Pin=60mmFAN-M1
+Added Pin To Net: NetName=GND Pin=60mmFAN-M2
+Added Pin To Net: NetName=GND Pin=60mmFAN-M3
+Added Pin To Net: NetName=GND Pin=60mmFAN-M4
+Added Member To Class: ClassName=CONN Member=Component 60mmFAN 50x50mmFAN

@@ -1,0 +1,12 @@
+Added Component: Designator=W5500_MODULE(W5500_MODULE)
+Added Pin To Net: NetName=GND Pin=W5500_MODULE-1
+Added Pin To Net: NetName=GND Pin=W5500_MODULE-2
+Added Pin To Net: NetName=W5500-MOSI Pin=W5500_MODULE-3
+Added Pin To Net: NetName=W5500-SCK Pin=W5500_MODULE-4
+Added Pin To Net: NetName=W5500-CS Pin=W5500_MODULE-5
+Added Pin To Net: NetName=W5500-MISO Pin=W5500_MODULE-7
+Added Pin To Net: NetName=W5500-RST Pin=W5500_MODULE-8
+Added Pin To Net: NetName=+3V3 Pin=W5500_MODULE-10
+Added Pin To Net: NetName=+3V3 Pin=W5500_MODULE-11
+Added Pin To Net: NetName=GND Pin=W5500_MODULE-12
+Added Member To Class: ClassName=Ethernet Member=Component W5500_MODULE

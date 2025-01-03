@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=USBC-DP Pin=ANTS ROBOTICS-A20
+Removed Pin From Net: NetName=USBC-DM Pin=ANTS ROBOTICS-A21
+Change Component Comment : Designator=C12 Old Comment=100nF 16V 0805 New Comment=0.1uF 16V 0805
+Change Component Comment : Designator=C2 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805
+Change Component Comment : Designator=C4 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805
+Change Component Comment : Designator=C22 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805
+Change Component Comment : Designator=C24 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805
+Change Component Comment : Designator=C28 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805
+Change Component Comment : Designator=C31 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805
+Change Component Comment : Designator=C32 Old Comment=100nF 50V 0805 New Comment=0.1uF 50V 0805

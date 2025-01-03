@@ -1,0 +1,144 @@
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A38
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A39
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A40
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A41
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A42
+Removed Pin From Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A54
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B38
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B39
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B40
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B41
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B42
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B52
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B53
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B54
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B55
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B56
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D3-1
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=D3-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D4-1
+Removed Pin From Net: NetName=MOTOR1_CHB Pin=D4-2
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=D7-1
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=MOTOR1_CHB Pin=D8-1
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D19-1
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=D19-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D20-1
+Removed Pin From Net: NetName=MOTOR2_CHB Pin=D20-2
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=D23-1
+Removed Pin From Net: NetName=GND Pin=D23-2
+Removed Pin From Net: NetName=MOTOR2_CHB Pin=D24-1
+Removed Pin From Net: NetName=GND Pin=D24-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D35-1
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=D35-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D36-1
+Removed Pin From Net: NetName=MOTOR3_CHB Pin=D36-2
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=D39-1
+Removed Pin From Net: NetName=GND Pin=D39-2
+Removed Pin From Net: NetName=MOTOR3_CHB Pin=D40-1
+Removed Pin From Net: NetName=GND Pin=D40-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D51-1
+Removed Pin From Net: NetName=MOTOR4_CHA Pin=D51-2
+Removed Pin From Net: NetName=+24V_MOTOR Pin=D52-1
+Removed Pin From Net: NetName=MOTOR4_CHB Pin=D52-2
+Removed Pin From Net: NetName=MOTOR4_CHA Pin=D55-1
+Removed Pin From Net: NetName=GND Pin=D55-2
+Removed Pin From Net: NetName=MOTOR4_CHB Pin=D56-1
+Removed Pin From Net: NetName=GND Pin=D56-2
+Removed Member From Class: ClassName=L298P_MOTOR1 Member=D3
+Removed Member From Class: ClassName=L298P_MOTOR1 Member=D4
+Removed Member From Class: ClassName=L298P_MOTOR1 Member=D7
+Removed Member From Class: ClassName=L298P_MOTOR1 Member=D8
+Removed Member From Class: ClassName=L298P_MOTOR2 Member=D19
+Removed Member From Class: ClassName=L298P_MOTOR2 Member=D20
+Removed Member From Class: ClassName=L298P_MOTOR2 Member=D23
+Removed Member From Class: ClassName=L298P_MOTOR2 Member=D24
+Removed Member From Class: ClassName=L298P_MOTOR3 Member=D35
+Removed Member From Class: ClassName=L298P_MOTOR3 Member=D36
+Removed Member From Class: ClassName=L298P_MOTOR3 Member=D39
+Removed Member From Class: ClassName=L298P_MOTOR3 Member=D40
+Removed Member From Class: ClassName=L298P_MOTOR4 Member=D51
+Removed Member From Class: ClassName=L298P_MOTOR4 Member=D52
+Removed Member From Class: ClassName=L298P_MOTOR4 Member=D55
+Removed Member From Class: ClassName=L298P_MOTOR4 Member=D56
+Added Component: Designator=FUSE-M1(KSTN-3568_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Component: Designator=FUSE-M2(KSTN-3568_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Component: Designator=FUSE-M3(KSTN-3568_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Component: Designator=FUSE-M4(KSTN-3568_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOTOR1_CHA Pin=FUSE-M1-1
+Added Pin To Net: NetName=MOTOR1_CHA Pin=FUSE-M1-2
+Added Pin To Net: NetName=MOTOR2_CHA Pin=FUSE-M2-1
+Added Pin To Net: NetName=MOTOR2_CHA Pin=FUSE-M2-2
+Added Pin To Net: NetName=MOTOR3_CHA Pin=FUSE-M3-1
+Added Pin To Net: NetName=MOTOR3_CHA Pin=FUSE-M3-2
+Added Pin To Net: NetName=MOTOR4_CHA Pin=FUSE-M4-1
+Added Pin To Net: NetName=MOTOR4_CHA Pin=FUSE-M4-2
+Change Net Name : Old Net Name=MOTOR1_CHA New Net Name=MOTOR1_CHA-RAW
+Change Net Name : Old Net Name=MOTOR2_CHA New Net Name=MOTOR2_CHA-RAW
+Change Net Name : Old Net Name=MOTOR3_CHA New Net Name=MOTOR3_CHA-RAW
+Change Net Name : Old Net Name=MOTOR4_CHA New Net Name=MOTOR4_CHA-RAW
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A38
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A39
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A40
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A41
+Added Pin To Net: NetName=MOTOR1_CHA Pin=ANTS ROBOTICS-A42
+Added Pin To Net: NetName=MOTOR1_CHA Pin=FUSE-M1-3
+Added Pin To Net: NetName=MOTOR1_CHA Pin=FUSE-M1-4
+Added Net: Name=MOTOR1_CHA
+Added Pin To Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B38
+Added Pin To Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B39
+Added Pin To Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B40
+Added Pin To Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B41
+Added Pin To Net: NetName=MOTOR2_CHA Pin=ANTS ROBOTICS-B42
+Added Pin To Net: NetName=MOTOR2_CHA Pin=FUSE-M2-3
+Added Pin To Net: NetName=MOTOR2_CHA Pin=FUSE-M2-4
+Added Net: Name=MOTOR2_CHA
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B52
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B53
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B54
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B55
+Added Pin To Net: NetName=MOTOR3_CHA Pin=ANTS ROBOTICS-B56
+Added Pin To Net: NetName=MOTOR3_CHA Pin=FUSE-M3-3
+Added Pin To Net: NetName=MOTOR3_CHA Pin=FUSE-M3-4
+Added Net: Name=MOTOR3_CHA
+Added Pin To Net: NetName=MOTOR4_CHA Pin=ANTS ROBOTICS-A54
+Added Pin To Net: NetName=MOTOR4_CHA Pin=FUSE-M4-3
+Added Pin To Net: NetName=MOTOR4_CHA Pin=FUSE-M4-4
+Added Net: Name=MOTOR4_CHA
+Change Class Name : Old Net Name=L298P_MOTOR1 New Net Name=MOTOR1
+Change Class Name : Old Net Name=L298P_MOTOR2 New Net Name=MOTOR2
+Change Class Name : Old Net Name=L298P_MOTOR3 New Net Name=MOTOR3
+Change Class Name : Old Net Name=L298P_MOTOR4 New Net Name=MOTOR4
+Added Member To Class: ClassName=MOTOR1 Member=Component FUSE-M1 3568
+Added Member To Class: ClassName=MOTOR2 Member=Component FUSE-M2 3568
+Added Member To Class: ClassName=MOTOR3 Member=Component FUSE-M3 3568
+Added Member To Class: ClassName=MOTOR4 Member=Component FUSE-M4 3568

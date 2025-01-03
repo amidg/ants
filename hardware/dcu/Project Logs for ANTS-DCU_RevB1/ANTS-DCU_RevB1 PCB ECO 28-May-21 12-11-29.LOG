@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=MCP23017_1-A0 NewDesignator=CTRL-A0
+Change Component Designator: OldDesignator=MCP23017_1-A1 NewDesignator=CTRL-A1
+Change Component Designator: OldDesignator=MCP23017_1-A2 NewDesignator=CTRL-A2

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ENC1-I Pin=R75-1
+Removed Pin From Net: NetName=ENC2-I Pin=R76-1
+Removed Pin From Net: NetName=ENC3-I Pin=R77-1
+Removed Pin From Net: NetName=ENC4-I Pin=R78-1
+Removed Member From Class: ClassName=CONN Member=R75
+Removed Member From Class: ClassName=CONN Member=R76
+Removed Member From Class: ClassName=CONN Member=R77
+Removed Member From Class: ClassName=CONN Member=R78
+Added Pin To Net: NetName=ENC4-I Pin=ESP32-4
+Added Pin To Net: NetName=ENC3-I Pin=ESP32-5
+Added Pin To Net: NetName=ENC1-I Pin=ESP32-6
+Added Pin To Net: NetName=ENC2-I Pin=ESP32-7

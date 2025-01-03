@@ -1,0 +1,25 @@
+Added Pin To Net: NetName=24V_MOTOR Pin=C36-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C38-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C40-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C42-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C44-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C46-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C48-1
+Added Pin To Net: NetName=24V_MOTOR Pin=C50-1
+Added Pin To Net: NetName=24V_MOTOR Pin=D1-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D2-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D17-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D18-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D33-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D34-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D49-2
+Added Pin To Net: NetName=24V_MOTOR Pin=D50-2
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M1_1-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M1_2-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M2_1-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M2_2-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M3_1-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M3_2-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M4_1-6
+Added Pin To Net: NetName=24V_MOTOR Pin=L298P_M4_2-6
+Change Net Name : Old Net Name=24V_MOTOR New Net Name=+24V_MOTOR

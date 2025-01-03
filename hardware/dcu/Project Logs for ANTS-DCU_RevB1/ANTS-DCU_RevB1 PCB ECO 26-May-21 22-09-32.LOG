@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=L298P-M1-1-IN1 Pin=L298P_M1_1-13
+Removed Pin From Net: NetName=L298P-M1-1-IN2 Pin=L298P_M1_1-15
+Removed Pin From Net: NetName=L298P-M2-1-IN1 Pin=L298P_M2_1-13
+Removed Pin From Net: NetName=L298P-M2-1-IN2 Pin=L298P_M2_1-15
+Removed Pin From Net: NetName=L298P-M3-1-IN1 Pin=L298P_M3_1-13
+Removed Pin From Net: NetName=L298P-M3-1-IN2 Pin=L298P_M3_1-15
+Removed Pin From Net: NetName=L298P-M4-1-IN1 Pin=L298P_M4_1-13
+Removed Pin From Net: NetName=L298P-M4-1-IN2 Pin=L298P_M4_1-15
+Added Pin To Net: NetName=L298P-M1-1-IN2 Pin=L298P_M1_1-13
+Added Pin To Net: NetName=L298P-M1-1-IN1 Pin=L298P_M1_1-15
+Added Pin To Net: NetName=L298P-M2-1-IN2 Pin=L298P_M2_1-13
+Added Pin To Net: NetName=L298P-M2-1-IN1 Pin=L298P_M2_1-15
+Added Pin To Net: NetName=L298P-M3-1-IN2 Pin=L298P_M3_1-13
+Added Pin To Net: NetName=L298P-M3-1-IN1 Pin=L298P_M3_1-15
+Added Pin To Net: NetName=L298P-M4-1-IN2 Pin=L298P_M4_1-13
+Added Pin To Net: NetName=L298P-M4-1-IN1 Pin=L298P_M4_1-15

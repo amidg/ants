@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=L298P_M1_1 Old Footprint=STM-PowerSO20_M New Footprint=L298P
+Change Component Footprint: Designator=L298P_M2_1 Old Footprint=STM-PowerSO20_M New Footprint=L298P
+Change Component Footprint: Designator=L298P_M3_1 Old Footprint=STM-PowerSO20_M New Footprint=L298P
+Change Component Footprint: Designator=L298P_M4_1 Old Footprint=STM-PowerSO20_M New Footprint=L298P
+Change Managed Component Library Link : Designator=L298P_M1_1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1B96A461-EDB0-4595-A3C7-CCE01C4FE2C9 New ItemGUID= Old RevisionGUID=78598D05-7A03-47C3-9AE3-D5135FBDE9C5 New RevisionGUID=
+Change Managed Component Library Link : Designator=L298P_M2_1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1B96A461-EDB0-4595-A3C7-CCE01C4FE2C9 New ItemGUID= Old RevisionGUID=78598D05-7A03-47C3-9AE3-D5135FBDE9C5 New RevisionGUID=
+Change Managed Component Library Link : Designator=L298P_M3_1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1B96A461-EDB0-4595-A3C7-CCE01C4FE2C9 New ItemGUID= Old RevisionGUID=78598D05-7A03-47C3-9AE3-D5135FBDE9C5 New RevisionGUID=
+Change Managed Component Library Link : Designator=L298P_M4_1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=1B96A461-EDB0-4595-A3C7-CCE01C4FE2C9 New ItemGUID= Old RevisionGUID=78598D05-7A03-47C3-9AE3-D5135FBDE9C5 New RevisionGUID=
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component U5 MCP23017-E/SO

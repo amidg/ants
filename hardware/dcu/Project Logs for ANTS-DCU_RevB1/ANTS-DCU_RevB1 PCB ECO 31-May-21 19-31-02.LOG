@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=MOTOR1_CHA Pin=FUSE-M1-2
+Removed Pin From Net: NetName=MOTOR2_CHA Pin=FUSE-M2-2
+Removed Pin From Net: NetName=MOTOR3_CHA Pin=FUSE-M3-2
+Removed Pin From Net: NetName=MOTOR4_CHA Pin=FUSE-M4-2
+Change Component Footprint: Designator=FUSE-M1 Old Footprint=3413.0326.22 New Footprint=KSTN-3568_V
+Change Component Footprint: Designator=FUSE-M2 Old Footprint=3413.0326.22 New Footprint=KSTN-3568_V
+Change Component Footprint: Designator=FUSE-M3 Old Footprint=3413.0326.22 New Footprint=KSTN-3568_V
+Change Component Footprint: Designator=FUSE-M4 Old Footprint=3413.0326.22 New Footprint=KSTN-3568_V
+Change Component Comment : Designator=FUSE-M1 Old Comment=3413.0326.22 New Comment=3568
+Change Component Comment : Designator=FUSE-M2 Old Comment=3413.0326.22 New Comment=3568
+Change Component Comment : Designator=FUSE-M3 Old Comment=3413.0326.22 New Comment=3568
+Change Component Comment : Designator=FUSE-M4 Old Comment=3413.0326.22 New Comment=3568
+Change Managed Component Library Link : Designator=FUSE-M1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FCF9347A-3B16-487A-8E97-FAFFF6376B52 Old RevisionGUID= New RevisionGUID=F505DEBF-B5EF-4257-83DA-8E479480600C
+Change Managed Component Library Link : Designator=FUSE-M2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FCF9347A-3B16-487A-8E97-FAFFF6376B52 Old RevisionGUID= New RevisionGUID=F505DEBF-B5EF-4257-83DA-8E479480600C
+Change Managed Component Library Link : Designator=FUSE-M3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FCF9347A-3B16-487A-8E97-FAFFF6376B52 Old RevisionGUID= New RevisionGUID=F505DEBF-B5EF-4257-83DA-8E479480600C
+Change Managed Component Library Link : Designator=FUSE-M4 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=FCF9347A-3B16-487A-8E97-FAFFF6376B52 Old RevisionGUID= New RevisionGUID=F505DEBF-B5EF-4257-83DA-8E479480600C
+Change component parameters: Designator = "FUSE-M1" ("FUSE-M1"); Footprint = "3413.0326.22"; UniqueID = "\EEHGNMYZ" ("\EEHGNMYZ")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FUSE-M2" ("FUSE-M2"); Footprint = "3413.0326.22"; UniqueID = "\SJHOSAXB" ("\SJHOSAXB")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FUSE-M3" ("FUSE-M3"); Footprint = "3413.0326.22"; UniqueID = "\CYAJVXVX" ("\CYAJVXVX")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FUSE-M4" ("FUSE-M4"); Footprint = "3413.0326.22"; UniqueID = "\OZBRMORL" ("\OZBRMORL")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/16294/m60-2p40-16294706.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "04/2013"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Keystone"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.keyelco.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "4-Pin Through Hole Device, Body 16 x 6.73 mm, Pitch 9.9 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "3568"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOTOR1_CHA-RAW Pin=FUSE-M1-2
+Added Pin To Net: NetName=MOTOR1_CHA Pin=FUSE-M1-3
+Added Pin To Net: NetName=MOTOR1_CHA Pin=FUSE-M1-4
+Added Pin To Net: NetName=MOTOR2_CHA-RAW Pin=FUSE-M2-2
+Added Pin To Net: NetName=MOTOR2_CHA Pin=FUSE-M2-3
+Added Pin To Net: NetName=MOTOR2_CHA Pin=FUSE-M2-4
+Added Pin To Net: NetName=MOTOR3_CHA-RAW Pin=FUSE-M3-2
+Added Pin To Net: NetName=MOTOR3_CHA Pin=FUSE-M3-3
+Added Pin To Net: NetName=MOTOR3_CHA Pin=FUSE-M3-4
+Added Pin To Net: NetName=MOTOR4_CHA-RAW Pin=FUSE-M4-2
+Added Pin To Net: NetName=MOTOR4_CHA Pin=FUSE-M4-3
+Added Pin To Net: NetName=MOTOR4_CHA Pin=FUSE-M4-4

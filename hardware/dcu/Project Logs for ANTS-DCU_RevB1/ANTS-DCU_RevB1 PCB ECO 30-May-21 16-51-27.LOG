@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetANTS ROBOTICS_A52 Pin=ANTS ROBOTICS-A54
+Added Pin To Net: NetName=NetANTS ROBOTICS_A52 Pin=FUSE-M4-3
+Added Pin To Net: NetName=NetANTS ROBOTICS_A52 Pin=FUSE-M4-4
+Change Net Name : Old Net Name=NetANTS ROBOTICS_A52 New Net Name=MOTOR4_CHA

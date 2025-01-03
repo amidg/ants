@@ -1,0 +1,25 @@
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R?
+Change Component Designator: OldDesignator=R59 NewDesignator=R60
+Change Component Designator: OldDesignator=R60 NewDesignator=R61
+Change Component Designator: OldDesignator=R61 NewDesignator=R62
+Change Component Designator: OldDesignator=R62 NewDesignator=R63
+Change Component Designator: OldDesignator=R63 NewDesignator=R64
+Change Component Designator: OldDesignator=R64 NewDesignator=R65
+Change Component Designator: OldDesignator=R65 NewDesignator=R66
+Change Component Designator: OldDesignator=R66 NewDesignator=R67
+Change Component Designator: OldDesignator=R67 NewDesignator=R68
+Change Component Designator: OldDesignator=R68 NewDesignator=R69
+Change Component Designator: OldDesignator=R69 NewDesignator=R70
+Change Component Designator: OldDesignator=R70 NewDesignator=R71
+Change Component Designator: OldDesignator=R71 NewDesignator=R72
+Change Component Designator: OldDesignator=R72 NewDesignator=R73
+Change Component Designator: OldDesignator=R73 NewDesignator=R74
+Change Component Designator: OldDesignator=R74 NewDesignator=3V3_D
+Change Component Designator: OldDesignator=R? NewDesignator=R59
+Change Net Name : Old Net Name=NetD66_1 New Net Name=Net3V3_D_1
+Change Net Name : Old Net Name=NetR59_1 New Net Name=NetR60_1
+Change Net Name : Old Net Name=NetR60_1 New Net Name=NetR61_1
+Change Net Name : Old Net Name=NetR61_1 New Net Name=NetR62_1
+Change Net Name : Old Net Name=NetR62_1 New Net Name=NetR63_1
+Change Net Name : Old Net Name=NetR?_1 New Net Name=NetR59_1
+Added Member To Class: ClassName=MCP23017 - CONTROL Member=Component R71 0R 5% 0805

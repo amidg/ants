@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=L298P-M1-1-IN1 Pin=R64-1
+Removed Pin From Net: NetName=L298P-M1-1-IN2 Pin=R65-1
+Removed Pin From Net: NetName=L298P-M2-1-IN1 Pin=R66-1
+Removed Pin From Net: NetName=L298P-M2-1-IN2 Pin=R67-1
+Removed Pin From Net: NetName=L298P-M3-1-IN1 Pin=R68-1
+Removed Pin From Net: NetName=L298P-M3-1-IN2 Pin=R69-1
+Removed Pin From Net: NetName=L298P-M4-1-IN1 Pin=R70-1
+Removed Pin From Net: NetName=L298P-M4-1-IN2 Pin=R71-1
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R64
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R65
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R66
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R67
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R68
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R69
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R70
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R71
+Added Pin To Net: NetName=L298P-M1-1-IN1 Pin=L298P_M1_2-7
+Added Pin To Net: NetName=L298P-M1-1-IN2 Pin=L298P_M1_2-9
+Added Pin To Net: NetName=L298P-M1-1-IN2 Pin=L298P_M1_2-13
+Added Pin To Net: NetName=L298P-M1-1-IN1 Pin=L298P_M1_2-15
+Added Pin To Net: NetName=L298P-M2-1-IN1 Pin=L298P_M2_2-7
+Added Pin To Net: NetName=L298P-M2-1-IN2 Pin=L298P_M2_2-9
+Added Pin To Net: NetName=L298P-M2-1-IN2 Pin=L298P_M2_2-13
+Added Pin To Net: NetName=L298P-M2-1-IN1 Pin=L298P_M2_2-15
+Added Pin To Net: NetName=L298P-M3-1-IN1 Pin=L298P_M3_2-7
+Added Pin To Net: NetName=L298P-M3-1-IN2 Pin=L298P_M3_2-9
+Added Pin To Net: NetName=L298P-M3-1-IN2 Pin=L298P_M3_2-13
+Added Pin To Net: NetName=L298P-M3-1-IN1 Pin=L298P_M3_2-15
+Added Pin To Net: NetName=L298P-M4-1-IN1 Pin=L298P_M4_2-7
+Added Pin To Net: NetName=L298P-M4-1-IN2 Pin=L298P_M4_2-9
+Added Pin To Net: NetName=L298P-M4-1-IN2 Pin=L298P_M4_2-13
+Added Pin To Net: NetName=L298P-M4-1-IN1 Pin=L298P_M4_2-15

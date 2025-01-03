@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=L298P-M1-2-IN1 Pin=R56-2
+Removed Pin From Net: NetName=L298P-M1-2-IN2 Pin=R57-2
+Removed Pin From Net: NetName=L298P-M2-2-IN1 Pin=R58-2
+Removed Pin From Net: NetName=L298P-M2-2-IN2 Pin=R59-2
+Removed Pin From Net: NetName=L298P-M3-2-IN1 Pin=R60-2
+Removed Pin From Net: NetName=L298P-M3-2-IN2 Pin=R61-2
+Removed Pin From Net: NetName=L298P-M4-2-IN1 Pin=R62-2
+Removed Pin From Net: NetName=L298P-M4-2-IN2 Pin=R63-2
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R56
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R57
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R58
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R59
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R60
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R61
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R62
+Removed Member From Class: ClassName=MCP23017 - CONTROL Member=R63
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=GND Pin=U5-5
+Added Pin To Net: NetName=GND Pin=U5-6
+Added Pin To Net: NetName=GND Pin=U5-7
+Added Pin To Net: NetName=GND Pin=U5-8

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=60mmFAN-M1
+Removed Pin From Net: NetName=GND Pin=60mmFAN-M2
+Removed Pin From Net: NetName=GND Pin=60mmFAN-M3
+Removed Pin From Net: NetName=GND Pin=60mmFAN-M4
+Removed Member From Class: ClassName=CONN Member=60mmFAN

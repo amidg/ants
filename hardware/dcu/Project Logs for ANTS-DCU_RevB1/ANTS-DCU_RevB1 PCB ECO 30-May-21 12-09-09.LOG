@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ENC4-I Pin=ESP32-4
+Removed Pin From Net: NetName=ENC3-I Pin=ESP32-5
+Removed Pin From Net: NetName=ENC1-I Pin=ESP32-6
+Removed Pin From Net: NetName=ENC2-I Pin=ESP32-7

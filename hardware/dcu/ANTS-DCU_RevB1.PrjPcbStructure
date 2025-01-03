@@ -1,0 +1,12 @@
+Record=TopLevelDocument|FileName=CONN.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=ESP32.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=Ethernet.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=MCP23017 - CONTROL.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=MCP23017 - ENCODER.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=MOTOR1.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=MOTOR2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=MOTOR3.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=MOTOR4.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=RELAYS.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=USB-ESP32.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=CONN.SchDoc|FileName=USB-HOST.SchDoc|SheetNumber= 
